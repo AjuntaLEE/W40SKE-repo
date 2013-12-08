@@ -1,0 +1,515 @@
+Confrontation: Necromunda Origins
+Excerpted from White Dwarf 130 into American English
+(Authors: Bryan Ansell, Rick Priestley and Nigel Stillman) 
+An introduction to the new skirmish wargame set in the 41st millennium
+
+Ever since Warhammer 40,000 was published players have been asking if a more detailed role playing version was over going to appear. Well, the idea was there right from the start - and in a sense the 40,000 book provides sufficient information for any innovative and reasonably experienced gamer to develop a system if they wanted to. I thought we’d probably never get round to producing a special role playing version as we’d simply been too busy working on the main WH40,000 game. Then about a year ago Bryan Ansell suggested that we revamp a game he had designed some time ago - originally to simulate World War 2 and contemporary combat but later extended into a futuristic setting. 
+The idea was appealing as Bryan’s game already had a detailed model-based combat system and rules for progressing characters. Taking this system and adapting it into the WH40,000 environment would give us a new game which would combine elements of role playing and skirmish wargaming. At the same time we could take the opportunity to write more about the WH40,000 universe by describing one planet in particular. Finally we decided that because the game would be a cross between WH40,000 and role playing it would be released by Flame Publications who currently publish material for Warhammer Fantasy Roleplay. 
+
+THE COMBAT SYSTEM
+We didn’t have much time as many other projects were pressing - not the least of which was (he new Realm of Chaos book The Lost and the Damned - a massive tome which would take up months and months! The work was divided up between myself (Rick Priestley) and fellow designer Nigel Stillman. I was to sort out the combat rules and convert details of weapons and equipment from WH40,000 while was to Nigel concentrate on the background, character development and scenario generation. The game’s title -Confrontation - was established early on, and it was decided that the setting should be a crowded warfare-ridden hive world called Necromunda. 
+The combat system was completed fairly quickly. Like Warhammer Fantasy Roleplay the game uses a percentage system to establish whether weapons hit their target and hits penetrate armour. By adopting the D100 existing WH40,000 weapons could be given far more detailed and different effects. It also gave us a broader spread of possible ability levels for the characters. This is the main advantage of using a percentage system - it immediately increases the range of dice results from 1-100 rather than the very restrictive 1-6 on a D6. With vast and highly detailed weapon and situation modifier charts Confrontation is a very sophisticated game indeed. As we anticipated players would be using only a dozen or so models a side this relative complexity didn’t worry us too much. 
+
+The benefit of using detailed systems was to make the game very directly realistic. To put this into perspective - if you can do something in real life then a character can do it too because the rules allow for literally any actions on behalf of your characters. The result is a game which will appeal to experienced players as well as those who are prepared to invest a bit of extra effort in the interests of a more detailed and realistic simulation. Of course, this extra detail means you have to think more than in the average game - you must record and conserve your ammunition rather than just blasting away, and you’ll find that wounds have an inconveniently incapacitating effect on your heroes’ actions. 
+
+THE BACKGROUND
+The background was evolved by Nigel Stillman working closely with Bryan Ansell – the introductory section is printed in this White Dwarf and other material will probably appear in future issues as it is readied for publication. We decided that it would be futile to attempt to provide rules and details to cover the entire Imperium - so it was decided to set the game entirely on one world and to concentrate on developing the cultural background to this world. This would allow us to explore the relationship of individual worlds within the Imperium, and we would have to delve more deeply than ever before into the way that Space Marines, Inquisitors and other Imperial troops operate on specific worlds of the Imperium. 
+We wanted a world where warfare was endemic -where characters could indulge in mutual conflict without any fear of too many social or legal constrictions. The world we settled on is called Necromunda. Necromunda has developed into a background not only for Confrontation but also for forthcoming WH40,000 novels, short stories, and some tremendous artwork by John Blanche. 
+
+NECROMUNDA
+IMPERIAL HIVE WORLD
+The Imperium of Man stretches across the galaxy from rim to rim, encompassing over a million habitable worlds and untold billions of people. It is the most extensive and populous empire that has ever existed in the history of humanity. It is ruled as it has been for the last ten thousand years by the Divine Champion of Man and Protector of the Human Race, the Emperor of Mankind. 
+The Emperor is the greatest of all human psykers, his mental energies are godlike and his powers incomprehensible to ordinary humans. It is his mind alone which projects the Astronomican throughout the galaxy, the psychic homing beam which enables spacecraft to navigate through the fabric of warp space. Without the Emperor the Imperium would collapse and human unity would be destroyed, leaving the remaining pockets of civilization isolated and vulnerable to the infinite enemies of mankind; creatures that seek to destroy or enslave the human race. 
+
+The Emperor has long since ceased to live in any normal sense. Ten thousand years ago, following his titanic battle against the rebel Warmaster Horus, Primarch and Arch-Champion of Chaos, his mutilated and barely alive body was installed inside a sophisticated life-support machine known as the Golden Throne. 
+
+The Emperor can no longer speak and it is doubtful if he comprehends events which take place in the material universe, as his powerful mind stalks through that nefarious region of pure energy known as the Realm of Chaos, hunting the enemies of mankind. The actual administration of the Imperium is therefore undertaken by a vast bureaucracy known as the Adeptus Terra - or Priesthood of Earth. 
+
+WORLDS OF THE IMPERIUM
+Even the Adeptus Administratum, the administrative branch of the Adeptus Terra, does not know for certain the exact number of worlds within the Imperium. There are approximately a million, but the treacheries of space-travel, the process of time distortion, and the effects of warp storms which can isolate worlds for centuries, make an accurate count impossible. 
+In addition, the galaxy is a dangerous and warlike place, whore worlds are constantly under threat from alien invaders, internal rebellion, and treachery by governors. Also, new worlds are constantly being added to the Imperium: virgin worlds ripe for colonisation or old human worlds which have been rediscovered after long periods of isolation. 
+
+The worlds of the Imperium take many different forms. Some are sparsely populated agricultural worlds whose sole purpose is to provide food for less productive and more highly populated planets. Other worlds are dedicated to specific functions, such as mineral-rich mining planets, barren research stations, military observation planets, and so forth. Most worlds of the Imperium have a reasonably mixed economy and are in most respects self- sufficient. The Adeptus Terra has very little to do with such worlds so long as their governors continue to pay their tithes and impose the Imperial laws which control and contain the emergence of mutant psykers. 
+
+HIVE WORLDS
+Hive worlds are another extremely important type of world. Hive Worlds are planets which, in all but a few cases, were settled thousands of years ago, often before the time of the Imperium, during the Dark Age of Technology when mankind first spread throughout the galaxy. 
+A Hive World has a population which far outweighs its own ability to feed or support it, often exceeding a thousand billion people on a planet the size of Earth. Such vast numbers of people exert such pressure upon the environment that few hive worlds can sustain life naturally. Many have no free ground surface left because they are entirety built over, with new buildings constructed on top of old ones, to the extent that the planet is no more than a huge urban conglomeration. 
+
+Hive Worlds are tough places: little value is attached to human life and air, light and food are often precious and rare commodities. Because the populations or Hive Worlds are so large they are almost impossible to control. As a consequence it is generally the case that hive societies are extremely brutal and dangerous. Violence is often institutionalized and accepted, and upholding the law is commonly a matter of exerting personal power and influence. In such a situation a man depends upon his friends and family, those whose livelihoods depend on him and those to whom he can promise support. 
+
+Every hive world has its unique environment, history, and circumstances. Confrontation is set upon the hive world of Necromunda. This volume contains copious details about the planet of Necromunda, its hives, and its teeming population. Necromunda is merely one of the hundreds of such worlds scattered throughout the galaxy. 
+
+NECROMUNDA
+Necromunda was founded 15,000 years ago as a mining and manufacturing colony. The ensuing millennia have not changed its basic purpose very much; Necromunda is still a world of mines, factories, refineries and processing plants. The planet is a vast powerhouse of industry, making thousands and thousands of different items for use throughout nearby planetary systems. 
+Nothing which can contribute to the planet’s output has been left untouched. From the tops of the highest mountains to the depths of the oceans, the wealth of Necromunda has been ripped out. Mountains have been reduced to rubble for the ore they contain; oceans have been turned into little more than chemical sludge ponds. The once fertile plains have disappeared under huge urban developments of great housing and factory blocks, forming new ranges of manmade mountains every bit as tall as the long since flattened natural land features. These huge towering urban complexes are known as city hives, or simply as hives, and their individual peaks or towers are called city spires or spires. A close group of hives is known as a hive cluster. 
+
+Between the hives deserts of industrial ash cover the surface of the planet with a mobile, corrosive skin. Over this desert lies a cloud layer of airborne pollution, so that the great spires of the city hives rise from a drifting mist of tainted vapor like islands out of the sea. 
+
+Despite being reduced to such a hellish state, Necromunda is still a valuable world to the Imperium. Although little of Necromunda’s original resources remain, the waste-heaps of previous generations have become a new source of riches. Necromunda lives on the accumulated wastes of its past: its people have learned to scavenge, reclaim and recycle everything in order to squeeze a living from their exhausted world. 
+
+Over the millennia, the population of Necromunda has increased well beyond the planet’s capacity to support it. As a consequence it is wholly reliant on synthetic and imported food. Each hive has its recycling plants which convert used organic matter into synthetic food. Real food is imported from off-planet, but is an expensive luxury which only the most wealthy and prestigious Necromundans can afford. 
+
+As generation after generation adds to the building and rebuilding of the hives, new layers of habitation are created and the hives continue to grow upwards. These towering hives dominate the wasteland around them like clusters of impossibly gigantic termite hills. Beneath the hives and extending around them under the wasteland itself lies a honeycomb of ancient disused factories and a labyrinth formed from the sewers and service tunnels of an earlier age. 
+
+Necromunda’s population has never been counted and the chances are that it never will be because the number of people involved is simply too large. There are probably more people on Necromunda than have ever lived in the entire history of Terra up until the end of the twentieth century. An attempted census of Trazior Hive four thousand years ago revealed an estimated population of a billion in the upper habitation levels alone - no further attempt has been made to count Necromunda’s population in Trazior or any other of the several thousand hives on the planet. 
+
+The society of Necromunda is reasonably typical of larger Hive Worlds. No attempt is made to enforce central administration upon the entire population; indeed such a thing would prove impossible on a world where most people remain unrecorded by any authority. Instead, a kind of feudal system has evolved by which individual people owe loyalty to others, who in their turn owe their loyalty to other increasingly more powerful members of the hierarchy. Among the more stable elements of the population these loyalties are owed on a family basis, and closely related families all support each other under the hegemony of the most powerful member of their family group. 
+
+This form of urban feudalism tends to be self regulating. Weaker clans naturally seek the protection of more powerful neighbors whose powerbase then expands until it reaches the limit whereby its numbers and resources are simply too few to allow it to expand further. Where rival clans meet it is inevitable that their power will be tested in combat; the ability of a clan to exert its power being the only true measure of its influence. The endless feuds between the warrior gangs of these clans are the setting for the game of Confrontation. 
+
+LORD HELMAWR
+The governor and ruler of all Necromunda is Imperial Commander Lord Helmawr. His ancestors are known to have reigned for the past seven thousand years at least, records of government before that time having long since disappeared. Even the archives of the Adeptus Administorum, the bureaucracy of the Imperium, are remarkably silent on the history of Necromunda during the early days of the Imperium. 
+Lord Helmawr occupies the very top of the Necromundan feudal hierarchy. The society he rules over is divided into many factions which continually compete and co-operate with each other, giving rise to endless changes in the feudal hierarchy. Lord Helmawr is completely unconcerned with the activities of lesser powerbrokers. He deals directly with the most powerful factions, offering them support in return for their loyalty. If a major player in the power game proves weak or treacherous it is a simple matter for Helmawr to withdraw his support. The very rumor that he might be about to do this is often enough to encourage a feudal inferior’s enemies to turn against him and destroy him. 
+
+The Adeptus Terra leaves Lord Helmawr to govern his domain as he pleases, as it leaves all Imperial Commanders free to administrate their worlds. The Imperial Commander forms a link in the feudal chain which extends throughout the galaxy to the heart of the Adeptus Terra. So long as Helmawr fulfils his feudal obligations to the Imperium his position remains secure. 
+
+Helmawr’s main obligation to the Imperium is to provide a tithe which takes the form of a percentage of all the goods Necromunda produces. As the entire production capacity of the world is given over to providing manufactured goods for the Imperium the tithe is taken as a straight discount on the revenue earned. So long as Necromunda continues to meet these responsibilities, and so long as its production capacity is sufficiently high, the Imperium remains quite satisfied. Of course, should the Necromundan economy begin to show signs of flagging then Lord Helmawr’s position would be very different indeed. 
+
+Hive worlds like Necromunda provide the Imperium with another useful resource – namely its people. Necromunda produces generations of tough youths with a strong sense of self-reliance. They are highly valued as recruits for the Imperial Guard and even for some of the Space Marine Chapters. Providing recruits in vast numbers is another of Lord Helmawr’s feudal obligations. Recruitment brings officials from the Imperium to Necromunda to inspect and in some cases conduct recruiting drives amongst the fighting gangs. Helmawr himself is obliged to provide troops from his personal guard, usually a whole regiment at a time. 
+
+Because the planet supplies so many troops for the Imperial Guard the name of Necromunda is known throughout the galaxy, even by people who know nothing about the planet itself. Over the centuries Necromundan Regiments have fought with distinction in the Imperial Guard and have earned a fearsome reputation on many battlefronts. 
+
+Another important obligation is that Lord Helmawr successfully controls the numbers of dangerous psychic mutants. These psykers, or witches, are a mutation which is becoming increasingly common on all worlds in the Imperium. On most worlds they can be dealt with fairly easily, but on a hive world like Necromunda with its vast population the matter is much more difficult. 
+
+Psykers are very dangerous indeed – probably more so than even they realize. Although some are able to control their powers and use them for the benefit of society, the majority are unable to control their powers properly with disastrous results. Some become host to daemonic powers from warpspace, while others attract psychically sensitive aliens or psychic diseases which can then hop into the minds of ordinary people. If psykers were to go unchecked throughout the Imperium human society would soon collapse. Indeed, this is one of the reasons why the Emperor clings so tenaciously to life, as only he understands the true dangers of possession and psychic destruction. 
+
+LANDSCAPE
+Necromunda is very similar to many other hive worlds of the Imperium. It is a planet devoid of any remnant of its original natural beauty; its surface reduced to a wasteland of windblown ash and accumulated industrial waste. Throughout this wasteland lie the hive cities which give such planets their distinctive character and their collective name of hive worlds. 
+The hives are grouped into clusters comprising up to a dozen or so individual hives all linked by a network of overground travel tubes and subterranean passages. These clusters are scattered over the cloud-strewn surface of the planet. From the top of any hive it is possible to see the tips of distant hive clusters projecting from the seas of poison mists like far-flung islands. 
+
+Hive clusters are connected together by roads across the wastes and transportation tubes supported on pylons and suspended from cables. With its forest of towering hives interconnected in a network of tubes, the landscape resembles a petrified forest entangled in the web of some enormous spider. Indeed, the spider and the spider’s web are very powerful symbols to the inhabitants of Necromunda. 
+
+The hives are the result of thousands of years of constant demolition and rebuilding. The original cities of Necromunda lie beneath the hives, many hundreds of yards below the current surface of the planet’s ash wastes. Dark, forbidding ruins, often crushed by the weight of the hives above them, these old cities preserve the layered history of Necromunda. It is a popular tale that the lowest layers of some hives are built from the original transport barges which brought humanity to Necromunda all those millennia ago. 
+
+Each hive takes the form of many huge spires which rise from the base of the city. From a distance, a hive resembles a mass of stalagmites rising from the cloud strewn wastes. Each hive covers an approximately circular area some fifty to a hundred miles in diameter. The tops of the spires can rise to a dozen or more miles above the ground surface, piercing the festering clouds that surround the lower levels of the hive. The spires usually merge into each other at their bases, and smaller spires will sometimes grow out and upwards from just above the base, branching like a cactus and forming multiple spires. 
+
+The spires are only the top part of the hive, comprising the upper hab zones with factory layers on or above the current ground surface. The older and partially ruined factory and hab layers still exist, although they are buried beneath the ash wastes. Though they are hidden, Factories and habs are rarely abandoned until they are utterly derelict or polluted beyond use even by Necromundan standards. 
+
+The hive-cities of Necromunda retain the ancient names of the cities and settlements from which they grew. Each spire within a hive is also known by a local name. There are approximately a thousand hive clusters on Necromunda. A few of the most important and some typical examples of the various kinds are described below. 
+
+SOME NECROMUNDIAN HIVES
+The Palatine
+The largest and oldest surviving hive on Necromunda is the dynastic home of Lord Helmawr, Imperial Commander of Necromunda, known across the planet as The Palatine. The cluster it belongs to is known as the Palatine Cluster. The central and tallest spire of the Palatine hive forms the palace of the Imperial Commander Lord Helmawr. 
+The Palatine boasts some of the most grandiose and magnificent architecture on Necromunda, and also has the only shipyard and landing field large enough to take orbital carriers. It is thus the planet’s only spaceport, a physical expression of Helmawr’s monopoly in off-planet trade. The fortress monastery of the Adeptus Astartes contingent and the headquarters of the Adeptus Arbites on Necromunda are also located in the Palatine Hive. 
+
+On the edge of the hive is a special spin, - set aside for the aliens and abhumans who come to Necromunda from time to time in order to trade. Both Squats and Eldar are among these visitors and they are housed on separate levels of this spire. The Palatine is thus by far mo most cosmopolitan of all the hives of Necromunda. 
+
+Trazior Hive
+Trazior means Three Sisters in the local Necromundan dialect. It is so called because of its three huge spires which can be seen from a long way off by any traveler coming across the wastes from the south. Trazior is located on the edge of the Great Equatorial Waste and is the southernmost “frontier” hive of the great Palatine Cluster. 
+Many important merchant clans are based in this hive and it is the main trading depot for convoys going to or arriving from the southern hive clusters. The nomads who live out in the wastes and raid the convoys are a constant source of annoyance to its inhabitants. The clans and gangs of Trazior are described in detail later. 
+
+Trazior was also the scene of one of the most prolonged and vicious gang wars in the recent history of Necromunda. 
+
+Acropolis Hive
+This is another old and elaborate hive in the Palatine Cluster. It is located at a very important intersection of several great road tunnels and has always been a major centre of trade on Necromunda. The Acropolis hive is home territory for some of the most powerful merchant clans, whose widespread trading network extends across many of the hives of Necromunda. The Acropolis Hive attracts a number of large and sprawling shanties clustered around its base. 
+The Temenos
+This is another hive in the Palatine Cluster. One spire forms the headquarters of the Ecclesiarchy on Necromunda, while another spire forms The Temple of the Emperor Deified. Colleges, libraries and chapels occupy parts of the other spires. A priory of the Adepta Sororita is located in one of the outer spires. This spire is often called the Sisters Tower as a consequence. 
+The population of Temenos hive are among the most pious and devout followers of the Imperial Cult. Many of the resident clans manufacture ritual items for the priesthood while others work in the scriptorium, translating the wisdom of the priesthood into the many dialects of Necromunda. 
+
+The Temple spire is an architectural wonder: its interior is a warren of naves, chapels and crypts, vaulted ceilings and pillared halls. The diffused light is stained by refraction through crystal. Incense and the sound of chanting drift across the chambers. Here and there statues and holograms of the Emperor reside in secluded shrines. From here Confessors and missionaries are sent off to frontier worlds in the nearby systems. 
+
+Quinspirus Cluster
+The Quinspirus Cluster is situated on the edge of a virtually solidified sludge sea called the Worldsump Ocean. At one time, when the sea was still navigable, the area included vast dockyards. These now remain buried deep within the undercity of the centrally located Quinspirus Hive. This hive has five great spires - hence the name which means five towers in the local dialect and which gives its name to the whole cluster. The cavernous warehouses of the ancient waterfronts have been the scene of many savage gang wars. 
+The Skull
+This derelict hive is the largest of a cluster of three remote ruined hives. It is pierced by great holes and from a distance looks like a great skull lying in the wastes. It is a famous landmark and perhaps even worshipped by the local nomads. 
+These three gigantic ruins are all that remains of the hives that were captured and occupied for a time by Ork raiders. All contact with the cluster was lost for several years before the rest of Necromunda realized what had happened. In the end a campaign was mounted to clear them. This was the original reason for dispatching a Space Marine contingent to Necromunda, which has since become a permanent establishment. 
+
+The hives were besieged and destroyed during the campaign. Now the tops have caved in and they lie abandoned and choked with dust. No one knows what fearful things have made their home amid the ruins, and even the nomads and scavvies fear to go near them. 
+
+THE ASH WASTES
+The hives of Necromunda are separated by the forbidding ash wastes: areas of land covered in an abrasive and highly corrosive ash, the end product of fifteen thousand years of industry. This desert covers every inch of Necromunda’s land surface that is not protected within a hive. In densely populated parts of Necromunda, hives may be separated by only fifty or a hundred miles of waste. On other parts of the planet the wastes may stretch for a thousand miles between hives. 
+In some places the ash is miles deep, forming shifting ranges of dust dunes which can bury roads and transport tubes, and erode the base of a hive when swept along in one of the frequent dust storms. The funnel-shape of the hive spires is designed to strengthen the hive against the worst ravages of the dust, but even so they are often buried to half their height or more by ash. This is stabilized and held in place by the fresh wastes which pour from the drains of the hive factories. 
+
+The ash wastes are mostly composed of metal oxides, powered plastics and inorganic chemicals which take millennia to reduce. As with many hive worlds, the wastes are an inhospitable environment. The ash corrodes equipment and poisons organic life, although a surprising variety of creatures do survive. No unpolluted air, food or water can be found in these dead lands, although there are fungi, algae and bacteria which live on the waste itself. These are believed to be responsible for the limited free oxygen content of Necromunda’s atmosphere. 
+
+The ash wastes are a striking and colorful if somewhat lurid environment. The nomads of the waste and even most hive-dwellers who see them would call them beautiful. The ash occurs in many different, often vivid hues such as sculpture yellow, citric green, cobalt blue, pink, mauve, as well as various shades of grey, and it varies in texture from fine dust to crystalline clinker. The creatures and nomads that live there are equally colorful, the better to blend into their surroundings. 
+
+The most dangerous hazard of the wastes is the ash storms. These terrible storms can blow their payload of toxic ash from the equator to the poles. A moderate ash storm will strip an unprotected man to the bone in seconds, and then reduce his bones to a handful of dust. A serious storm is something that everyone on Necromunda fears. These can be so strong that they have been known to destroy entire hives. Ruined spires are occasionally revealed in the wake of one storm only to be covered over again by shifting waste in the next. In some areas, ash has been blown away to reveal the scarred bedrock of the planet. During Necromunda’s calmer season, which coincides with the planet’s long extinct summer, liquid pollutants rise to the surface, forming slick- lakes and short- lived blind-rivers. Streams meander across the land, vanishing into sinkholes in the dust only to rise elsewhere. Imperial scholars who have studied dust ecologies believe that there may be currents and tides within the ash surface. 
+
+These transient rivers and lakes can dry out, forming a hard pan on the surface of the dust. These dangerous areas conceal deep seas of fine dust beneath them. The nomads who travel the wastes avoid such places, because to fall through the crust of a pan is certain death. Anyone who does so is suffocated and then corroded to nothing by the ash. 
+
+In hotter weather, when Necromunda’s sun breaks through the planet’s cloud cover, noxious vapors rise up and form poisonous mists and fogs. Mists are invariably followed by toxic rain storms, laden with particles of deadly ash dust and other contaminants. 
+
+However, despite their perils, the ash wastes of Necromunda conceal treasures. Much remains hidden beneath the surface, ready to be reclaimed and used: derelict spires from lost hives; buried convoys; wrecked stratoplanes, aircrafts and spaceships; long-abandoned mine workings; and even, in places, raw materials from the bedrock of the planet. There are a few places where, thanks to some mysterious natural sorting of the wind and ash itself, veins of pure oxides and chemicals have accumulated. Such concentrations, or ash pockets, are worth mining in themselves. They are a rich raw material which can be reprocessed. 
+
+THE SLUDGE SEAS
+Necromunda never enjoyed large expanses of open water, but now the planet’s original seas and rivers are filled with liquid chemical waste. Choked with ash, thick with chemicals and poisoned by heavy metals, Necromunda’s sludge seas are all that remains of the ancient oceans. The consistency of the sludge varies from a thin, chemical soup to a viscous polluted mud. Near the equator, the sea’s surface has solidified into a crust of sludge, baked hard by the sun. Conventional ships are useless in such conditions and only flyers or hover vehicles cross the seas. It is even rumored that some mutants even live in these areas, utterly isolated from the rest of Necromunda. 
+The sludge seas, however, also support their quota of hives. Some are built on massive piles, driven deep into the sea floor. Other, relatively small hives have been constructed on massive floating islands which are anchored in position. On more than one occasion a floating hive has broken free during an ash storm and sunk or capsized. Survivors of such a disaster are rare. 
+
+ANATOMY OF A HIVE
+THE SPIRES
+From a distance, when the clouds lift from around a hive, its spires look like a cluster of tall, tapering termite mounds. They rise from a broad base of outlying structures to near-vertical towers. Their gigantic scale is such that it almost denies human involvement in their construction and they look as though they might have sprouted up out of the ground by themselves, like some great organic growth. Few human constructions can rival their awesome size. Although no two spires are exactly the same, they all share common characteristics and are constructed in a similar fashion. 
+A section cut through a spire is not a whole circle. A spire is divided into a series of segments, like wedges of a cheese, which are joined at the centre. Deep gullies or slits in the spire, crossed by communications tubes, separate the segments. These gullies are supposed to admit light and air to the spire, but their size makes this impractical. Every added communications tube also adds its shadow to the darkness of the interior. 
+
+The areas close to the core are far removed from the outside world. Their only illumination is provided by glow globes and massive cables of optic fiber or flexible glass, which run down into the core of the hive from the sunlit pinnacles of the spires. These create weak shafts of light that penetrate the dim catacombs of the hive and light it in the same way as the nave of a Gothic cathedral. 
+
+Fresh air enters the inner recesses of the hive via great ducts from the upper layers. It is drawn in through huge wind intake fans and filtered through dozens of purification plants to remove the fumes accumulated as it passes down the height of the spire. In the deepest parts of the hive and especially in the old factories and undercity layers, the air ducts no longer function. Here fumes and stale air accumulate and personal respirators must be worn at all times. 
+
+The many air ducts and vents are infested by strange creatures called caryatids. These are small, blue, winged humanoids which exist in great numbers throughout the hives of Necromunda. Many hive-dwellers see them as good luck charms because they often attach themselves to powerful and successful individuals, and in fact seem to be particularly attracted to the soon-to-become-powerful. Conversely, the departure of a ‘pet’ caryatid is seen as an omen of doom - its former companion is then regarded as a man waiting for death. 
+
+THE SHELL
+The outer shell of a hive is its skin and defense. Though the cliff- like shell of a spire appears to be quite solid, its surface is pierced with deep vertical and angled shafts. These shafts are small compared to the bulk of the spire, but are important because they admit additional light and air into the core of the hive. They are all protected by a series of massive covers which can be moved into place when required. 
+The shell is where the majority of the inter-spire travel tunnels and tubes begin and end. Tunnel stations and gateway fortresses, convoy parks and garrison blocks are all located in it, where they can contribute to the regulation and defense of traffic between and within the hives. 
+
+The shell is also the first line of a hive’s active defenses against planetary invasion. Giant defense lasers, each capable of hitting an orbiting target, are mounted at many points. These are used to defend the hive against human or alien spacecraft. However, against the fierce ash storms that sometimes ravage Necromunda, the shell’s surface forms its only defense. 
+
+Although some people do live within the hive shells, the storms are an excellent reason to find accommodation deeper within the spire. Being able to experience direct sunlight or feel a fresh draft of air from the duct is a status symbol almost as important as having a good diet, but a single ash storm can make such status symbols meaningless. 
+
+A heavy storm is quite capable of stripping off the shell’s outer layers, including a spire’s laser defenses, travel facilities and shell-dwellers. Shells must be constantly refurbished by work-gangs, otherwise the next ash storm could easily penetrate the tunnels, shafts and catacombs of the main spire and rip it apart. 
+
+HEAT SINKS
+At the heart of every spire there is a single vertical shaft known as the heat sink. From the topmost levels of the spire the heat sink reaches far below the lowest levels of the hive, down through the geological crust of the planet itself. A heat sink can be several miles across. It is a vast, hollow, sealed tube made from dense plasteel. Along the length of its thick plasteel walls there are buildings, chambers, shafts and service tunnels. 
+The sink takes heal from the planet’s core and turns it into power for the spire. At intervals throughout the length of the heat sink there are generator stations which convert the raw heat into usable energy. The power is then transmitted to the factories and hab layers around the core. There are no power stations in the lower levels. The heat sink passes through these levels and provides only a constant warmth. This, however, is infinitely preferable to the damp chill of the remainder of the lower hive. 
+
+As is the case with all things Necromundan, the power generation systems are controlled by the clans into whose territory they fall. These clans receive a considerable income from all who use their power, so possession of the heat sinks is one of the chief marks of a powerful clan of the inner core. Other clans might control territory between the power stations and the users, and they often extract their own tolls from both factories and power producers to protect the transmission lines. In this way the feudal clans of Necromunda operate as producers, suppliers and consumers in a thriving economy. Only in the upper hab layers of the spires is there a regulated service. There, power is drawn from stations controlled by the government - in effect by the troops belonging to Helmawr’s own clan. 
+
+Access to the heat sink is usually very difficult. Many levels have no access at all, and on others access ports are sealed and guarded. On some of the older levels, however, many seals are ruined or insecure and access is possible although dangerous. 
+
+HAB LAYERS
+The upper layers of each spire are called habitation areas or hab layers. Here the bulk of the hive’s human inhabitants live in conditions which range from relative luxury to dismal squalor. 
+Where a family lives in a spire reflects its social standing and importance. The topmost layers of the spire are populated by the elite households of the hive. This hive nobility live in relative comfort enjoying the luxury of natural light, fresh air and real food imported from nearby agricultural worlds. Below lie the twilight levels, inhabited by the rest of the population. Conditions on the twilight hab layers are considerably less pleasant than in the habs above. Natural daylight is dim, fresh air is unknown, and most of the food has been eaten and recycled many times before. 
+
+Below the twilight layers is the darkness of the undercity. Here, the only light comes from artificial glowglobes. Everything, even the air, on these levels has been used before and reprocessed several times. On a typical hive world air and water pass through, on average, 287.3 other people before reaching the lips of those who inhabit the undercity. The proteins and minerals in the universal synthdiet are reclaimed from human bodies that no longer have need of it. On Necromunda, everything that can be recycled is recycled, including the people themselves. 
+
+THE FACTORY LEVELS
+The industrial complexes built into the spires produce all kinds of different items which are traded to other planets in return for the food which Necromunda so desperately needs to feed its teeming millions. 
+In the hives, the factory levels extend from below the lower habs down to the surface of the ash wastes and beyond. Over the millennia, the waste exuded from the factories has solidified around the base of the hives, affecting the ever-rising layer of ash waste which covers the surface of the planet. As the level of the ash wastes rises, so the lower factories find themselves buried below the ground. So long as it remains possible to pump effluent up to the surface, these factories can still continue to function. 
+
+The new factory levels are a network of waste pipes, gutter-shafts and gas-drains which bleed poisons and noxious wastes away from working areas. These drains stick out of the lower flanks of the hives, flaring off dangerous gas, belching out fumes into the filth-ridden air, or pouring poisonous liquids and solid waste onto the polluted ash below. 
+
+Industrial production is controlled by the many clans. Each producer fits into a pattern of feudal obligation - supplying other clans and taking raw materials, components and power from others. Large, powerful clans act as clearing houses for the goods and services provided by their feudal inferiors. This industrial feudalism of Necromunda regulates demand and supply in a thoroughly efficient manner. 
+
+Clans will often rise in power and importance, as lesser clans in related industries come together in uneasy alliances. Sometimes conflict of interests, territorial rights and clan rivalry lead to inter-clan feuds. This is one of the main causes of gang warfare on Necromunda. 
+
+Workers usually live in or very near the factories where they work, and are as much a resource as the machines they tend. In some cases, workers, especially Techs, are surgically adapted to perform specialist functions. Such physical and mental enhancements are expensive to finance, which makes such workers very valuable. 
+
+OLD FACTORIES
+As the surface of the wastes rises it becomes increasingly difficult to service the factories on the buried levels. Huge vacuum pumps lift the countless tons of filth up above surface level for venting outside the hive, but even these have their limits. There is a point in each spire below which disposing of the factories’ rubbish is impractical. When the cost of disposing of a factory’s waste is no longer outweighed by the value of its output, it is closed down and abandoned. 
+As the lower levels fall below the level of the ash waste and are abandoned to low- life scum, lower hab layers are converted into new factories, and the upper hab levels are extended upwards. In this way the spires of the hive world are being continually renewed. 
+
+The old factory layers are filled with abandoned, machinery and hab levels and often reach as far below ground as the spires stretch up above it. The lowest parts of the old factory levels are little more than rubble, having collapsed under the weight of the hive, or been deliberately filled in to make foundations for later building work. The abandoned factories and hab levels arc infested by scavvies, gangs who roam the dead layers of the hive scavenging for anything they can use or trade. 
+
+THE UNDERCITY
+Below the hive’s foundations lies a honeycomb of ancient tunnels, ruins, and buildings from Necromunda’s long-dead past. Those ruins lie at the very bottom of each spire, far below any factories and the ash wastes: they are the undercities, the oldest and deepest parts of Necromunda’s hives. 
+Undercity zones predate the hives by many centuries, even millennia. They are remnants of Necromunda’s true cities, built before the planet’s natural ecology was destroyed, when there were no encroaching ash wastes. It is quite possible that the remains of the colony barges that first brought mankind to the planet still lie beneath some hives. 
+
+The undercities are infested with fugitives, outcasts and mutants who are regarded by the upper hive-dwellers as little better than the animal vermin which are also found there. Life in the undercity is even more violent and difficult than life in the spires above. Many of the most ruthless hive gangs have origins in the undercity. At the bottom of the hive, upward mobility is more than an abstract concept. The strong, the lucky and ruthless can rise to the top, in terms of actual location in the hive as well as in status. It is not unknown for survivors of the undercity to reach high status as officers in the Imperial Army, schooled and tempered by the terrible necessities of survival. 
+
+THE FORBIDDEN CITIES
+The military tunnels which link the hives of Necromunda run deep beneath the ash wastes, cut into the very bedrock of the planet. This travel network was constructed so military forces could be moved quickly around the planet, enabling them to concentrated wherever they are needed. 
+Access to the hive is via great ramp–shafts guarded by gatehouses, but unauthorized persons are able to gain entry through the heat sinks and air-vents. Under the hives, and linked to this underground tunnel network, are cavernous storage depots and bunkers, used for stockpiles of synthetic food and raw materials in anticipation of war or some other disaster. 
+
+The tunnel system and its associated bunkers are very ancient, dating to a time before the hives had grown to the massive size that they are now, As the system is continually being renovated or enlarged, many tunnels and bunkers have been bypassed or disused and sealed up. Over the millennia, these unused tunnels and bunkers have been forgotten and lost. 
+
+Since the discovery that these places are the only source of the valuable drug spook, they have been secretly re-colonized and are now known as the “Forbidden Cities”. If they’ve heard of them at all, most Necromundans don’t believe they’re real, thinking their existence to be yet another urban fable. 
+
+It is in these ancient bunkers that the decayed synthdiet deposits are found which are used to make the psychic drug spook. It is likely that officials of the Lord of Necromunda discovered the distinctive green deposits while they were supervising work on the tunnel network. Since then, the nobility and the ruling dynasty of Necromunda have always had a hand in the production and trade in spook. Only the nobles, with their ability to call on the services of subordinate clans, techs and paramilitary forces have the diverse resources needed to process the decayed synthdiet into spook. 
+
+The cavernous vaults of the Forbidden Cities are extended and embellished with the wealth brought in by spook. Pillared halls are cut from the rock, polished stones and mosaics adorn the floors, ceilings and walls. They become palaces of archaic decadent splendor. 
+
+The cities’ workforce is recruited from the scum of the undercity, supervised and guarded by savage undercity gangs. If they cannot find enough willing workers they will incite undercity gangs to make slave raids into the lower hab layers or offer to buy captives from nomad slavers. Once introduced to the decadent life within the Forbidden City, most slaves are reluctant to ever be free again. 
+
+Spook exploitation brings in incredible wealth. This wealth helps to maintain the privileged lifestyle of those noble families secretly involved in its manufacture and trade. These are the so called Lords of the Forbidden Cities. Some are of noble origin, others are adventurers of obscure origin who have connections with the nobility. Frequently they are members of noble households who have gone into exile because they are suspected psykers or wish to escape from political enemies. They simply disappear from the upper spires, setting up court in the hidden bunkers where the spook is processed. 
+
+SPOOK
+While there are many decaying foodstuffs down in the bunkers, only a certain type degenerates into the spook lode: the vestigial remains of the oldest kind of synthdiet made on Necromunda. The decayed synthdiet deposits are now nothing more than a lurid green powder, having been acted on by mutant fungi for thousands of years. It contained a high proportion of recycled human protein, and it is this human essence which is likely to account for its dramatic effects on the human psyche. 
+The drug spook is taken in liquid form – the ultimate magic potion. When drunk in small amounts, it awakens the imbiber’s psychic abilities. When drunk in quantity it opens the channel between a person’s physical body and their soul in the warp. If the individual has a strong soul, it will be drawn into his material body; if he has a weak soul, all psychic energy will be instantly sucked out of him and lost in the void. It is for this reason that spook is a very dangerous substance, and its use viciously repressed by the Imperium. 
+
+In hive-world society, people are constantly seeking ways to exploit anything they discover. The people who stumbled on the unusual green deposits investigated ways of turning them into wealth, as they would have done with any substance, and in the process discovered spook. Being ignorant of matters of the human soul and the danger inherent in mankind’s metamorphosis into a psychic race, spook was seen as just another substance to be recycled and exploited for profit. 
+
+There has always been a massive demand for drugs in hive-society, mainly to supplement the diet and ward off sickness. Spook became popular among the nobility who reveled in its exotic effects and it has slowly filtered down throughout hive-society. 
+
+The noble households which exploited this resource naturally kept the trade secret and confirmed to grow rich. The household of the Lord of Necromunda himself was involved in the business and was able to organize off planet trade of spook. This had to be accomplished using smugglers, since the Imperial fleet conducts all legal trade in space. 
+
+No-one knows or can predict where the spook deposits are to be found, but whenever one comes to light, the officials of Lord Helmawr’s officials who are part of the spook ring are informed, and mining and processing can begin. Trusted noble households with a close connection to the ruling dynasty will get the concession to exploit the deposit. 
+
+Small quantities of spook are also found and traded by scavvies who stumble on eroded deposits during their delvings. This accounts for a small amount of wild spook that is traded in the undercity and shanties. Imperial agents trying to track the spook to its source usually end up following the scavvy spook and thereby miss the main source. Of course, there is nothing to link the nobility or the Lord of Necromunda to the scavvy spook. 
+
+The most significant outlet for spook is the secret cults that lurk in many hives. These cultists need a regular supply of this psychic-enhancing substance. The Immortals in particular require vast quantities for their rites and the expansion of this cult is certainly the single greatest factor in the growth of the spook trade. Most of the spook lords who rule the Forbidden Cities are probably already members of this cult. 
+
+Spook is easily distributed via the various undercity, scavvy or nomad gangs who ask no questions and only know of the next link in the chain. 
+
+THE SHANTIES
+Shanty towns are built outside the hives, clustered at the outer edge of the shells of the spires. They are inhabited by all kinds of hive world scum who cannot cope with life within the hives. The spires, at least, offer a limited protection against the poisoned rains and corrosive ash. The best shelter a shanty dweller can hope for is one or two layers of packing material, or an abandoned vehicle. To make matters worse, much of the factories’ toxic effluent pours directly down onto the shanties. 
+If a shanty remains in existence for any length of time and somehow escape’s being swept away by a storm, the inhabitants will excavate caves and cellars into the solidified sludge and compacted dust. These dwellings can be reinforced by sludge baked by the sun into crude bricks. By retreating into those refuges, some shanty dwellers survive the ash storms that sweep away the more flimsy parts of their homes. When the storm abates, they force their way through the wind-blown dust to the surface and attempt to rebuild the shanty out of the wreckage of the old one. 
+
+Conditions in the shanties are worse than anything in the hives, yet for most shanty-dwellers even their crude home is preferable to wandering the ash wastes, where they would fall victim to the creatures and nomads if the heat, corrosive dust and freak storms did not get them first. 
+
+No-one from the hives bothers shanty-dwellers very much - they have little worth taking. Furthermore, the sprawling settlements are home to vicious gangs of shanty-dwellers, scavvies and nomad bands that have come to the shanty to trade. 
+ 
+WD 131 Confrontation: Gangs
+Excerpted from White Dwarf 131 into American English
+(Authors: Bryan Ansell, Rick Priestley and Nigel Stillman) 
+The number of gangs on Necromunda almost certainly runs into millions, ranging from small gangs which control no more than a section of corridor to the private armies of large and powerful clans which dominate whole spires. 
+
+The Imperium does not dictate to the Imperial Commander how the planet should be run – as long as it is loyal to the Emperor, its factories produce what they should and it pays its tithes they do not interfere. The retinue of Lord Helmawr is in effect the largest gang on Necromunda. His status as Lord of Necromunda is hereditary and his household controls all off planet trade, including the import of real food from nearby agricultural worlds. 
+
+General Characteristics of Hive Gangs
+The word “gang” describes many different types of armed bands on Necromunda. Gang is a generic term which includes clan warriors, bands of ash nomads, savage gangs and mutant bands from the undercity, scavvies from the shanties, armed bands of techs, bands of fugitive psykers, unruly brat gangs of the upper hab layers, as well as sanctioned gangs and professional bounty-hunters, guards and retainers such as the Venators and Custodians. 
+Although gangs may be drawn from large groups such as a hive clan, noble household or nomad tribe, a typical gang will include around a dozen members. This is an ideal strength for skirmishing and raiding in the corridors and tunnels of the hive. Gangs must be able to infiltrate the territory of rival gangs undetected to mount successful raids. In order to set ambushes they will have to hide in the dark recesses and among the pipes and conduits of the road tunnels. Small groups are simply much more effective in this environment than large armed mobs which are far too conspicuous and easy to track down. 
+
+Each gang is led by the warrior with experience, skill and considerable powers of leadership. Other warriors are naturally attracted to these strong and inspiring individuals. Each territory has its own gang drawn up from the toughest youths of the clan. The gang leader and his henchmen, often several years older than most of the warriors and due to settle down as respected clan members will select the best of the youths and let them prove themselves through the gang initiation rite. Most initiations are pretty tough and brutal and in this way the gang recruits the toughest among the youth to be the clan warriors. 
+
+The ambition of most young clan members is to run with a gang, similarly most young nomads in the ash wastes are expected to fight for the tribe as warriors. The youth of a hive -clan will tend to group together for protection, and might well become involved in skirmishes in defense of their home territory. 
+
+Other types of gangs recruit suitable new members into their ranks in a similar way. Scavvies, Brats, Mutants, Techs and Psykers will naturally only consider their own kind or those sympathetic to them. Undercity gangs will only accept savage masters of the art of survival who can prove their eligibility by combat. 
+
+All gangs impose some sort of initiation rite on their recruits, intended to mark gang members for life and weed out those who might be a liability. Recruits must often prove themselves by taking a trophy in their first skirmish with the gang. This usually means cutting off a finger, ear or taking a scalp from a fallen enemy. Attempting to take a trophy from a living enemy is even more admired, but reckless in the extreme. The practice of trophy-taking is generally known among the gangs as 'scragging'. 
+
+The habit of taking part of an enemy corpse as a trophy is related to a common Necromundan ritual. Clan members who fail in their duties and obligations atone by cutting off one of their own fingers or, more rarely, one of their ears. This severed piece of flesh is then presented to the clan leader as a token of reborn loyalty and commitment. 
+
+This custom is practiced by gangs in hives all across Necromunda. It is also common for good fighters to hold up their hands in greeting, palms outwards and fingers spread. By doing this, a fighter shows any potential opponents that he has all his fingers. By extension, he has never been defeated or made a mistake. He is, therefore, a man to be feared. 
+
+Gangs trade among themselves for weapons, ammunition and equipment. Anything they cannot obtain by trade they will capture from enemies or raid arms depots. If the gang is hired by Helmawr's officials, a noble household or a powerful clan, they may be rewarded with sophisticated weaponry. Techs can make advanced weapons and wealthy social groups can purchase or obtain them by corrupt means. Many scavvies, undercity warriors and nomads have to make do with crude improvised weaponry until they can capture or loot something better. 
+
+CLAN WARRIORS
+The most common type of gang on Necromunda are the gangs of young clan warriors. 
+In the hives every manufacturing process, industry, service and transaction is the concern of one clan or another. The pressures of competition for limited resources - even such basics as good food, air and water - mean that every clan must sometimes resort to armed force to secure its survival. 
+
+Every clan, and groups of related families within each clan, has their own territory or concession, often carved out and defended by their own gangs of young clan warriors. In this way, forests have been replaced by a jungle of metal and concrete, and society is ordered along tribal lines. 
+
+For many ordinary Necromundans running with a gang comes as part of the life cycle. Young members of the clan are expected to play their part in defending the clan territory and upholding the honor of the clan. Youths in their early teens are initiated into the gang by various rites of passage. From then until their mid twenties they fight for the clan in the same way that young warriors would fight for their tribe in, a primitive feral world society. 
+
+After several years with the gang, a warrior gains the respect and status of his family and other clan members and gains the right to found his own family and take part in the clan business. 
+
+The struggle for supremacy between clans is ceaseless and often violent. Clan gangs fight each other openly, gang leaders are assassinated and kidnapped, or, most commonly, a clan’s resources, its techs, workers and factories, are destroyed in endless raids. Lord Helmawr and the nobles of Necromunda do little to interfere. They simply wait and then do business with the winners. 
+
+Neither Helmawr nor his officials concern themselves with inter clan rivalry, as long they fulfill their quota of goods and deliver them on time. Lord Helmawr extracts tolls on all business through off world shipping and handling charges, recruits the best gangs into the Planetary Defense Force and leaves the hives to manage as best they can. It is an arrangement that suits everyone of consequence. 
+
+The co-operation between the clans and Lord Helmawr is an accepted part of life. It operates at many levels, with gangs recruited into the Planetary Defense Force, given semi-official status as Venators and Custodians, or secretly used for Helmawr's hidden dealings. 
+
+The gangs are necessary for the government’s dirtier tasks, and they are glad to do the work at the right price. The commonest use for hired gangs is to profit the nobility and Helmawr, as ruler, takes the lion's share. He charges high rates for his monopoly on off planet transport, and he enforces his monopoly by troops and sanctioned gangs. Helmawr maintains his power by a subtle policy of divide and rule over the rival households, clans and gangs of Necromunda. 
+
+Social Croup - Young clan members aged between early teens and mid twenties. Most of the population of Necromunda belongs to a clan and clan warriors form the most common type of gang. Each group of closely related families living in a distinct close-knit territory will have a gang to protect them. A typical clan can include hundreds of such gangs. 
+
+Territory - the workshops, factories and associated living areas of the families in the clan are the territory of the local clan gang. Other clans, gangs and strangers will be challenged if they violate the gang territory without permission or payment of tribute. 
+
+Ritual - Youths are initiated into the gang by various initiation rites. Some must prove themselves worthy by acts of reckless bravery such as scragging an enemy (cutting off an ear or finger as a trophy), others must endure ritual scarification without flinching. Most gang warriors receive ritual scars or tattoos of some kind. After a time running with the gang, young warriors will have gained enough respect and status to found their own families and take up the clan business. 
+
+Armament - Clan warriors can often be quite well armed through trading with other gangs. 
+
+Motives - Gangs of young clan warriors protect the clan territory and other members of the clan as they go about their work. These gangs also make it their business to uphold clan honor, which will often lead to long standing feuds between rival clans. Gangs wish a good reputation may be hired by other clans, noble households or Lord Helmawr's officials for various tasks. Exceptional clan warriors may be recruited into the Planetary Defense Force, Imperial Guard or even the Adeptus Astartes. 
+
+BRAT GANGS
+Although the noble households are outside the Clan structure of Necromunda, they are not immune to the influence of the pervading tribal culture of the hive world. Like clans, noble households have their own ancient and bitter rivalries which sometimes explode into violence. The root causes are often more to do with honor, traditional enmity, and dynastic disputes than the mainly economic and territorial causes of gang warfare in the lower levels of the hive. 
+The idle and decadent youth of the nobility emulate the young clan warriors by forming their own Brat gangs, which make it their business to look after the honor of their household. Many young nobles run with the Brats for a time before they succeed to holding office and can then continue to further the interests of their own household by more subtle means. 
+
+The Brats are always in the forefront of any new fashion or cult that sweeps through the upper levels of the hive. Young nobles are privileged, wealthy, inquisitive, rebellious and open to wider influences than are available in the lower levels of the hive. Brat gangs sport fantastic, elaborate costumes and hairstyles, and flout the conventions of hive life as openly as possible. 
+
+In the upper hive layers Brats run together in packs but they do not limit their predations to their home territories. They frequently drop down the spires into the lower habs, where their wealth can be used to obtain any drug or weapon. Once in the lower habs, the Brat gangs terrorize the Techs and workers, safe in the knowledge that they can return to the upper habs whenever they want to. 
+
+Social Group - Brats are recruited from the unruly, discontented and rebellious youth of the nobility. 
+
+Territory - The estates of the noble households in the Upper Hab layers. 
+
+Ritual - Brats go in for bizarre tribal rituals imitating those of other hive gangs. Initiation rites, scars, tattoos, hairstyles and extravagant rather than practical clothing characterize these gangs. 
+
+Armament - Brats can be quite well armed due to wealth and access to imports. Exotic weaponry is especially favored. 
+
+Motives - Brat gangs are mainly concerned with upholding the honor of their households. They also assume responsibility for 'protecting' their territory from uncouth lower hive dwellers. Brat gangs like to create a reputation for themselves by raiding other gangs. They also get up to various rebellious, subversive and anarchic activities including involvement with cultists and psykers. 
+
+TECH GANGS
+Tech gangs and associations are more common than supposed. Techs often form collectives to protect themselves from exploitation by other groups. From passive protection and defense, such associations often mature into gangs that are as aggressive, in their own fashion, as any other in the hives. Tech gangs have a pool of skills which means that they can often trade for materials from the factory levels. They deal in drugs, chemicals and weapons, trading these goods for interesting technological relics and rare raw materials scavenged from the undercities. Tech gangs are not noted for crude ferocity but they are widely respected for their expertise with weapons and equipment, and it is foolish indeed to cross a Tech gang without reason. 
+Social group - Techs belong to clans, either forming a distinct group within a large clan or forming separate tech clans. Techs form gangs to protect themselves and their business interests. 
+
+Territory - Tech gangs protect the workshops, industrial plants and associated living areas of the tech families that work there. 
+
+Ritual - Tech gang warriors undergo initiation rites which might involve technological implants or advanced forms of tattooing. 
+
+Armament - Techs have access to unusual and technically advanced weaponry due to their skills and great bargaining power. 
+
+Motives - Tech gangs are concerned with protection of their territory and tech business interests from the predations of envious rivals. There are many who will resort to lawless means to obtain advanced technology. Tech gangs are often hired by Helmawr, noble households or other clans for tasks which require their expert technical skills and sophisticated weaponry. 
+
+SCAVVIES
+The shanties and derelict factories of the undercity are homes to the Scavvies, who scrape a living from scavenging materials and trading them with clans who can make a profit from recycling. In the old factories there are rich pickings to be found among the rubbish and abandoned machinery for those who are desperate enough to hunt there. 
+The Scavvies trade what they find - machines, scrap, raw materials, even spook caches in return for food and weapons. The relationship is uneasy at best, because many Scavvies are diseased. 
+
+Scavvies develop sores and scabs on the skin due to delving among dangerous pollutants. This has earned the Scavvies the alternative name Scabbies, and like mutants they are often persecuted as subhuman beasts. Wherever they are found, Scavvies are driven from levels occupied by normal humans. 
+
+Many Scavvies make a good living as spook hunters, prospecting for the precious lodes of raw narcotic spook. For the Scavvy gangs this is a valuable substance, worth many times its weight in real food and fresh water. A carefully guarded lode of spook can keep a gang in relative comfort for years, if they manage to avoid becoming addicts in the meantime. 
+
+Naturally, much raw spook makes its way to the secret factories of Lord Helmawr. For this reason, if for no other, Scavvies are a necessary part of Necromunda’s economy. Without them to find and mine the raw spook, one of Lord Helmawr’s principle sources of income would vanish. 
+
+Other Scavvy gangs specialize in preying on fugitives and patrols from the upper spires, and those who fall victim to them are lucky if they are slain outright. It is even said that Scavvies eat their prisoners. Such fresh meat supplements their normal diet which includes the verminous creatures of the undercity and the shanties. 
+
+Social Group - Scavvy gangs include all kinds of fugitives, outcasts, refugees, members of dispossessed clans and scum shunned even by the undercity gangs. Many shanty-dwellers are hereditary Scavvies. 
+
+Territory - Scavvies carve out gang territories in the Shanties, among the old derelict factories and heavily polluted parts of the undercity. 
+
+Ritual - Scavvy gang ritual is similar to undercity gangs. Human bones are often used as decoration or primitive amour. Trading with Scavvies is a ritualistic and frequently risky business. 
+
+Armament - Scavvies use crude improvised weapons supplemented by captured and traded items. Rare scavenged materials can sometimes be exchanged for quite sophisticated equipment. 
+
+Motives - Survival by means of scavenging is the prime motive of most Scavvy gangs. Good scavenging grounds will be fiercely protected. Scavenging, looting and all forms of furtive theft are highly respected talents. 
+
+NOMADS
+Nomad bands wander the ash wastes which lie between the hives. Their skills to survive in the hostile ash wastes mark them as special among the people of Necromunda. They manage, much to the horror of hive dwellers, to live in the open, unprotected by the walls and ceilings of a hive or the amour plate of a convoy carrier. Indeed, few true nomads use vehicles, preferring to carry only as much as they can load onto their own backs. In this way, every nomad is a fighter and a bearer, ready to defend his own part of a caravan. 
+Nomad gangs ambush convoys from the hives and other nomads when they can. They frequently attack travel tubes and disrupt trade between the hives. The nomad routes cross the planet and bands migrate from one hive cluster to another, following the good weather and trying to stay ahead of the fierce seasonal ash storms. A gang’s long wanderings can take it to many hives and their surrounding shanties, and the nomads make a living carrying trade goods between the hives. The goods they carry are small, usually exotic and always costly: rare drugs, special ammunition, strange things found in the ash wastes and secret messages from distant hives. Many gang leaders prefer to use nomad couriers, valuing secrecy above the speed and ease of using road tunnels. 
+
+The nomads are seen as dangerous undesirables by hive dwellers. Helmawr’s soldiers and merchant gangs attack nomads on sight because of the danger they pose to road tunnels and convoys. Nomads have also been known to raid the hives themselves on occasion, infiltrating deep beyond the spire shells and retreating into the ash wastes before any resistance could be organized. Nomads sometimes get into the undercity via derelict tunnels uncovered in the ash wastes, and any storm that breaches the shell of a hive will give rise to anxiety in expectation of an imminent nomad raid. 
+
+Social Group - Nomads form a distinct social group on Necromunda. It's possible that they were the descendants of rural settlers who were long ago reduced to nomadic scavenging existence due to the pollution of their lands. They dislike and despise hive-dwellers, and the feeling is mutual. 
+
+Territory - Territory tends to be wherever the nomad band are at the time, although certain caravan routes, ruins, expanses of waste and water holes may be regarded as the territory of a specific band. 
+
+Ritual - Nomads have their own ritualistic and tribal society which is distinct from the clans of the hives. Rites of passage, ritual scarification and tattooing, scragging and trophy-taking are all known in various forms. Some nomads make extensive use of body-painting as a means of protecting their skin from the sun and the dust as well as decoration. 
+
+Armament - Simple weaponry supplemented by captured and traded items. Sophisticated weapons are a status symbol. 
+
+Motives - Nomad gangs are naturally concerned about protecting their territory or trading caravans. Tribal and personal honor are extremely important. Nomads indulge in continual warfare and inter-tribal feuding for amusement and gain. Raids on merchant convoys crossing the wastes are commonplace, but some nomad bands are audacious enough to make slave-raids on shanties and even hives, if they can get in through damaged transport tubes or the ravaged hive shell after an ash storm. Nomads obtain sophisticated goods by trading and prospecting in the ash wastes for valuable raw materials and relics. 
+
+UNDERCITY GANGS
+These gangs are made up of the many types of scum that inevitably end up in the undercity of each hive. Such gangs are small, tightly knit and very territorial. They fall outside the clan system and are independent, ruthless and resourceful. 
+Undercity gangs soon learn that to survive they must raid the factory and hab levels above them. If a gang is successful, it may even carve out a territory in the higher levels. By taking over a single factory or part of a hab level, the gang could begin its climb out of the undercity. 
+
+The undercities are among the toughest environments on Necromunda and the undercity warriors are often regarded as the best fighters in the hives. Survival of the fittest is the rule and the survivors grow stronger and tougher. Many undercity gangs will only accept competent warriors into their ranks. 
+
+A prospective recruit will be expected to prove his worth by scragging an enemy - tearing off an ear, a finger, part of a scalp or some other part of an opponent. The bloody trophies gained are worn as a sign of gang membership: a necklace of dried ears or fingers is sometimes favored by undercity gangs. 
+
+When such marks are combined with distinctive costumes, ritual scarring, insignia and tattoos, gang members present a collective identity to their rivals, friends and enemies. 
+
+Social Group - Fugitives and outcasts from hive society, often those who have dishonored their clan, offended their clan leader or simply foil out with their original clan gang. Criminals and rebels wanted by Lord Helmawr or the Imperium frequently turn up causing trouble in the undercity. 
+
+Territory - Gang territories are carved out among the dark labyrinthine catacombs of the undercity and the derelict factories. 
+
+Ritual - Undercity gangs are perhaps the most ritualistic of all gangs. Initiation rites, scarification, tattooing, and body decoration are taken to extremes. These gangs are the urban equivalent of feral world savages. Leadership disputes are decided with brutal ritual. Scragging of enemies and trophy-taking is common practice. 
+
+Armament - Undercity gangs use crude improvised weaponry supplemented with captured and traded items. 
+
+Motives - Gangs of undercity scum band together to savagely defend their territory from outsiders and indulge in regular raiding and pillaging of Factory levels and even hab levels. Indeed, those clans holding territory adjacent to the undercity are literally defending the 'frontier' of the hive against the barbarians of the undercity. This frontier zone is subject to constant raiding and skirmishing. 
+
+MUTANT GANGS
+Mutants are feared by everyone on Necromunda, from the highest administrator in Helmawr's court to the lowliest unskilled worker in the process vats. Most hive dwellers do not understand that mutation is an inevitable part of life on a planet as irredeemably polluted as Necromunda. Mutants are branded as evil, corrupted by their own wickedness and greed, and tainted by witchery of the foulest kind. 
+As a result mutants are persecuted and driven into the undercities. In the depths they fall victim to the undercity gangs and the Scavvies. Most mutants do not survive for very long once they have been discovered. Those that manage to run and hide often band together in gangs of their own, usually in the most inaccessible and heavily polluted sections of the undercities. 
+
+Once established, mutants interbreed and their offspring, often more mutated than their parents, replenish the gang. Over the course of generations new mutations arise in the gangs, some of which may even be survival traits. The bottoms of the hives are unhealthy places, and any mutation which helps its owner to live is naturally passed on to his descendants. 
+
+Social Group - Mutant gangs include fugitive mutant outcasts from normal society and their mutated descendants. 
+
+Territory - Mutant gangs lurk in the worst parts of the undercity. 
+
+Ritual - Ritual is crude and savage. Scarification, scragging and cannibalism have been reported. 
+
+Armament - Crude improvised weaponry supplemented by captured items. 
+
+Motives - Survival and spiteful revenge against non- mutants. 
+
+PSYKER GANGS
+On Necromunda, as elsewhere in the Imperium, psykers are persecuted and feared. Their witch-talents and unnatural ways make them dangerous: they are open gateways for darkness and wickedness. Folk tales of psykers confirm the worst: they can cause madness with a touch and summon daemons. In turn, many psykers, tormented beyond endurance, lash out at the persecutors, using their powers to destroy. The legends are merely proven by such actions. 
+Life is hard for psykers on Necromunda, as it is throughout the Imperium. Some fall prey to daemonic possession. More fall victim to the witch-hunting Venators and bounty-hunting gangs. The remainder may manage to escape detection, or flee to the undercities. Everyone in the undercities has something to hide, so the secretive behavior of psykers attracts little attention. The 'witches' form their own gangs for mutual protection, always making sure to recruit only their own kind, or true sympathizers. Most psyker-gangs include a few non-psykers, relatives or close friends who have chosen to share the psyker’s exile. 
+
+By far the most dangerous psyker gangs on Necromunda are the secret covens of the cult known as the Immortals. The background of this sinister cult and the tale of its founder are narrated in detail later on. 
+
+Social Group - Fugitive psykers who have fled from persecution and relatives who have accompanied them. Those who seek arcane power by associating with covens and worshipping Chaos may also be found in some psyker gangs. 
+
+Territory - Psyker-gangs can be hidden anywhere in the hive, even in the upper hab layers, though most lurk in the undercity. 
+
+Ritual - Psyker gangs practice bizarre occult initiation rites. Captives may be taken for sacrifice in cult rituals and a sinister occult aspect pervades all gang activities. 
+
+Armament - Psyker gangs use simple weaponry augmented by more sophisticated equipment captured, traded or obtained through influential contacts. 
+
+Motives - Psyker gangs are motivated by survival and the protection and continued secrecy of any cult they may practice. Many psykers are obsessed with revenge against their persecutors, while others secretly try to spread their insidious influence throughout the hive. 
+ 
+WD 132 Confrontation: The Gangs 
+The Gang Leader 
+The Gang 
+Creating a Gang 
+Choosing a Gang 
+Generating Followers 
+Profiles 
+Gang Type Variations 
+Generating Equipment 
+Stash 
+Cash 
+Skills 
+Caryatids 
+ 
+WD 137  Confrontation: Combat Rules, Part 1
+(Part 1 in White Dwarf 138) 
+Combat 
+Characters 
+Characteristics 
+Other Skills 
+Group Coherency 
+Groups 
+Group Morale 
+Game Sequence 
+The Turns Phase 
+Actions 
+Visibility 
+Firing 
+ 
+Confrontation: Trading Equipment 
+Trading Charts 
+ 
+WD 138  Necromunda: Space Hulk Campaign 
+Background 
+ 
+Confrontation: Combat Rules, Part 2
+(Part 1 in White Dwarf 137) 
+Expansion Ideas 
+Hand-to-Hand Combat 
+Hit Location 
+Armour Modifiers 
+Range Modifiers 
+Damage: Wound Recovery 
+ 
+WD 142 Confrontation: Weapons 
+Firearms 
+Ammunition 
+Bolters 
+Bolt Pistol 
+Bolt Gun 
+Heavy Bolter 
+Combi-Weapons 
+Conversion Beam Projector 
+Distortion Cannon 
+Flamers 
+Hand Flamer 
+Flamer 
+Launchers 
+Grenade Launcher 
+Missile Launcher 
+Meltas 
+Melta Gun 
+Multi Melta 
+Graviton Gun 
+Handbow 
+Knife 
+Laser Weapons 
+Lascannon 
+Lasgun 
+Laspistol 
+Multi-Laser 
+Needlers 
+Needle Gun 
+Needle Pistol 
+Needler Chemicals 
+Neuro-toxins 
+Sedatives 
+Intoxicants 
+Plasma Weapons 
+Plasma Gun 
+Plasma Pistol 
+Heavy Plasma Gun 
+Shuriken Weapons 
+Shuriken Cannon 
+Shuriken Catapult 
+Shuriken Pistol 
+Shotguns 
+Stubbers 
+Stub Guns 
+Heavy Stub Guns 
+Slug Throwers 
+Flechette Rounds 
+Dumdum Rounds 
+Explosive Rounds 
+Armour-Piercing Shells 
+Auto Weapons 
+Autocannon 
+Auto Guns 
+Auto Pistols 
+Webbers 
+Web Gun 
+Heavy Webber 
+ 

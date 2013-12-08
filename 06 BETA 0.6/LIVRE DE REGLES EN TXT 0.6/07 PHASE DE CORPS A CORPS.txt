@@ -1,0 +1,98 @@
+Phase de corps à corps
+Les joueurs effectuent un duel de D10. 
+Pour cette phase le gagnant du duel est le joueur « Alpha », le perdant est le joueur « Oméga ».
+2 phases secondaires :
+	-Mouvements de charge
+	
+	-Résolution des combats
+1 – Mouvements de charge :
+Une « charge » est un déplacement effectué dans la stricte direction d'un ennemi et dont la finalité est d'amener un maximum de soldats des deux camps à être au contact (socle à socle).
+
+La distance parcourue par les soldats lors d'une « charge »  est de 4ps. La compétence « saut » amène ce mouvement à 8ps. 
+Cette distance de charge doit être parcourue dans son intégralité sauf si le soldat entre en contact socle à socle avec un ennemi au cours de la « charge » et qu'aucun ennemi plus distant et/ou « désengagé » n'est à sa portée.
+
+Au cours de cette phase, et par ordre d'initiative décroissante puis croissante, les soldats qui ont reçu un ordre de "manœuvre" ou de "mouvement et qui n'ont pas tiré doivent charger toute unité ennemie se trouvant à moins de deux fois leur distance de charge maximale (donc 8ps normalement, et 16ps pour les soldats qui disposent de la compétence « saut »). 
+
+2 – Résolution des combats :
+Une fois toutes les charges effectuées on résout les combats.
+
+Lorsqu'un soldat est en contact socle à socle avec un seul ennemi ils forment ensemble un « duel simple ». 
+
+Lorsqu'un soldat est en contact socle à socle avec plusieurs ennemis ils forment ensemble un « duel complexe ».
+
+Les duels complexes se résolvent en plusieurs duels simples successifs avec cependant un bonus pour le soldat bénéficiant du surnombre.
+
+IMPORTANT : Les « duels simples » sont de la forme « 1 vs 1 », les « duels complexes » sont de la forme « 1 vs 2 ou 3 ou 4 ou 5 ». Tout combat qui de prime abord ne suit pas cette règle doit être repensé afin de s'y conformer..
+
+IMPORTANT : Les armes de corps à corps permettent de jeter un D10 supplémentaire ce résultat n'est pas ajouté au total. C'est une chance de plus de faire un bon jet. Le soldat conserve le résultat de dé le plus avantageux « max(D10;D10) ».
+
+Duels :
+Chaque joueur lance 1D10 (ou plus selon que son soldat possède une arme de corps à corps ou bénéficie des bonus de surnombre (cf « duel complexe »)) et y ajoute la capacité de corps à corps (CC) et les différents bonus/malus inhérents à l'ordre/situation de son soldat.
+
+Égalité/Résultat Incertain :
+
+-En cas d'égalité, ou si la différence de score est de +1/-1, le résultat du duel est appelé « incertain » et l'issue se joue sur la valeur d'initiative des duellistes : 
+
+	1.Soit les duellistes ont la même valeur d'initiative : ils subissent alors tous deux une touche et doivent donc faire un jet de sauvegarde chacun.
+
+	2.Soit les duellistes ont des valeurs d'initiative différentes : le soldat avec la valeur d'initiative moindre subit alors tout d'abord une touche et effectue donc un jet de sauvegarde, puis, si ce soldat n'est pas blessé, c'est à son adversaire de subir une touche et d'effectuer un jet de sauvegarde.
+
+Si les deux soldats réussissent leur jet de sauvegarde le statu-quo persiste.
+
+IMPORTANT : Lors d'un résultat « incertain », un soldat doté de la compétence « peur »  sera toujours considéré comme ayant la valeur d'initiative la plus haute. Quand deux soldats qui inspirent la « peur » s'affrontent, ni l'un ni l'autre ne bénéficie de ses effets.
+
+Victoire/Défaite :
+
+-Si l'un des deux duellistes a un score supérieur de 2 ou 3 points à celui de son adversaire il ne subit pas de touche, en revanche son adversaire est touché et doit faire un jet de sauvegarde.
+
+-Si l'un des deux duellistes a un score supérieur de 4, 5 ou 6 points à celui de son adversaire il ne subit pas de touche, en revanche son adversaire est touché deux fois et doit faire deux jets de sauvegarde.
+
+-Si l'un des deux duellistes a un score supérieur de 7 points ou plus à celui de son adversaire il ne subit pas de touche, en revanche son adversaire est touché trois fois et doit faire trois jets de sauvegarde.
+
+En cas de succès du ou de tous les jets de sauvegarde du perdant, celui-ci doit effectuer un « jet de blocage », si ce test est également un succès, le statu-quo persiste.
+
+
+IMPORTANT : Un soldat qui perd un corps à corps doit faire autant de jets de blessure qu'il a raté de sauvegardes. 
+
+IMPORTANT : Un soldat qui perd un corps à corps (c'est à dire qui est touché, n'est pas blessé, mais n'a pas touché son adversaire) doit faire un « jet de blocage ». La valeur de commandement utilisée pour ce test peut-être modifiée par un personnage alentour. En cas d'échec, le soldat est bloqué.
+
+Duels simples :
+1 contre 1 :
+Ce combat sera résolu sous la forme d'un duel.
+Le soldat lance 1D10 (s'il possède une arme de corps à corps il lance un total de deux D10 et conserve le meilleur).
+Duels complexes :
+2 contre 1 :
+Ce combat sera résolu sous la forme de deux duels successifs.
+Afin de représenter l'avantage du surnombre le soldat du coté en supériorité numérique lance  deux D10 au lieu d'un seul et conserve le meilleur (s'il possède une arme de corps à corps il lance un total de trois D10 et conserve le meilleur). 
+Si le soldat du coté en supériorité numérique est blessé ou bloqué à l'issue de ce duel, le duel suivant sera traité comme un cas de  1 V 1.
+
+3 contre 1 :
+Ce combat sera résolu sous la forme de trois duels successifs. 
+Afin de représenter l'avantage du surnombre le soldat du coté en supériorité numérique lance trois D10 au lieu d'un seul et conserve le meilleur (s'il possède une arme de corps à corps il lance un total de quatre D10 et conserve le meilleur).
+Si le soldat du coté en supériorité numérique est blessé ou bloqué à l'issue de ce duel, le duel suivant sera traité comme un cas de  2 V 1.
+
+4 contre 1 :
+Ce combat sera résolu sous la forme de quatre duels successifs.
+Afin de représenter l'avantage du surnombre le soldat du coté en supériorité numérique lance trois D10 au lieu d'un seul et conserve le meilleur (s'il possède une arme de corps à corps il lance un total de quatre D10 et conserve le meilleur). En plus de cela il reçoit un bonus de 1 à sa capacité de combat.
+Si le soldat du coté en supériorité numérique est blessé ou bloqué à l'issue de ce duel, le duel suivant sera traité comme un cas de  3 V 1.
+
+5 contre 1 :
+Ce combat est résolu sous la forme de cinq duels successifs. 
+Afin de représenter l'avantage du surnombre le soldat du coté en supériorité numérique lance trois D10 au lieu d'un seul et conserve le meilleur (s'il possède une arme de corps à corps il lance un total de quatre D10 et conserve le meilleur). En plus de cela il reçoit un bonus de 2 à sa capacité de combat.
+Si le soldat du coté en supériorité numérique est blessé ou bloqué à l'issue de ce duel, le duel suivant sera traité comme un cas de  4 V 1.
+
+6 et plus contre 1 :
+Ces combats n'ont pas lieu. Un maximum de 5 soldats peuvent s'acharner sur un soldat adverse et pas davantage.
+
+IMPORTANT : Un soldat ne peut toucher que 3 de ses adversaires au maximum, après avoir infligé trois touches et indépendamment du résultat de ces touches en terme de blessures il peut continuer de se battre mais en cas de succès de sa part l'adversaire n'aura pas à effectuer de jet de sauvegarde. Afin de blesser des adversaires qu'il n'a pas encore combattu un soldat peut épargner les touches qu'il aurait infligé à un adversaire et ainsi se réserver le droit d'en infliger à un adversaire qu'il combattra ultérieurement dans la séquence de duels.
+
+IMPORTANT : Lors de la phase de ralliement : « réorganisation des corps à corps » un soldat qui a « bloqué », mis « au tapis » ou « hors combat » tous ses adversaires peut mettre « hors combat » immédiatement tous les adversaires « au tapis » en contact socle à socle.
+
+Rappel :
+-« tir appuyé » donne un malus de 4 en CC
+-« manœuvre » donne un malus de 2 en CC si le soldat a tiré.
+-« mouvement » donne un malus de 2 en CC si le soldat a tiré.
+-« déplacement » ne donne ni bonus, ni malus.
+
+-« bloqué » donne un malus de 2 à moins qu'un malus plus important du à un ordre n'affecte déjà le soldat en question.
+-« au tapis » un soldat au tapis ne peut pas se battre, il sera automatiquement mis « hors combat » s'il est engagé par un adversaire.

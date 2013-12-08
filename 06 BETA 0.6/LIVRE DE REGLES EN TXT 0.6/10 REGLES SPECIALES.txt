@@ -1,0 +1,162 @@
+REGLES  SPECIALES
+Aptitudes :
+Les aptitudes sont des pouvoirs spéciaux dont disposent les commandants.
+Elles ne peuvent être utilisées qu'une seule fois par bataille et doivent être activées strictement au moment approprié.
+Les bonus qu'elles apportent sont ponctuels et non cumulables. 
+
+IMPORTANT : Les aptitudes sont à usage unique et leurs effets ne durent jamais plus d'un tour, et rarement plus d'une phase.
+
+IMPORTANT : Les commandants ne peuvent pas utiliser leur aptitude lorsqu'ils ne sont pas « valides ». 
+
+Appel au sacrifice : Durant la phase de ralliement, au moment de la phase de "Soins". Tous les soldats alliés "au tapis", où qu'ils soient sur le terrain, se relèvent sans même avoir besoin d'effectuer le "test de soins". Ils ne sont pas bloqués et prennent part normalement au tour de jeu suivant.
+
+Attaque psychique « X » : Durant la phase de tir, en substitution au tir. Le personnage met "hors combat" un soldat ou un personnage adverse situé dans un rayon de Xps autour de lui sur un 3+. Sur un résultat de 1, le personnage qui utilise cette compétence effectue un jet de blessure. La cible n'a pas besoin d'être en vue et ne dispose pas de "jet de sauvegarde", ni de "jet de blessure", ni de "report de touche". Cette attaque se substitue au tir et entraine donc les mêmes conséquences qu'un tir normal.
+Les "psykers" et les "drones" sont immunisés à cette aptitude.
+
+Confusion « X » : Durant la phase de mouvement, à la fin du mouvement du personnage. Le personnage "bloque" tous les soldats et personnages situés sous un gabarit de 3ps dont le centre est situé dans un rayon de Xps autour du personnage sur un 3+.
+Les "psykers" et les "drones" sont immunisés à cette aptitude.
+
+Rush : Durant la phase de mouvement, au moment d'effectuer un mouvement. L'unité dont fait partie le personnage bénéficie d'un bonus de mouvement de 4ps.
+
+Feu nourri : Durant la phase de tir. L'unité dont fait partie le personnage relance ses tirs ratés.
+
+Medikit : Durant la phase de ralliement, au moment des soins. Le personnage guérit un soldat ou un personnage « au tapis » dans un rayon de 3ps autour de lui. L'état du
+
+Mise à couvert : Durant la phase d'ordres, jusqu'à la fin du tour. L'unité dont fait partie le personnage bénéficie de la compétence "Camouflage".
+
+Poison : Durant la phase de corps à corps, avant la résolution des duels. Le personnage met "hors combat" un soldat ou un personnage adverse en contact socle à socle avec lui sur un 3+. La cible ne dispose pas de jet de sauvegarde, ni de jet de blessure.
+Les "psykers" et les "drones" sont immunisés à cette aptitude.
+
+Promesses électorales : Durant la phase d'ordres, jusqu'à la fin du tour. L'unité dont fait partie le personnage bénéficie de la compétence "Implacable".
+
+Repli stratégique : Durant la phase 5 de la phase de ralliement. Tous les soldats et personnages alliés qui ne sont ni « bloqués », ni « au tapis », ni « engagés » en corps à corps, bénéficient s'ils le souhaitent d'un mouvement de 6ps, mais qui ne peut en aucun cas être effectué en direction d'un ennemi ou s'il conduit à s'en rapprocher, quelle que soit la distance de l'ennemi par ailleurs.
+
+Tir Soutenu : Durant la phase de tir. L'unité dont fait partie le personnage tire deux fois.
+
+
+
+
+COMPETENCES SPECIALES :
+
+Sont regroupés sous cette appellation toutes les règles qui s'appliquent à certains soldats seulement et de manière ponctuelle (compétence active) ou à tout moment de la partie (compétence passive).
+
+IMPORTANT : Ni les soldats, ni les commandants, ne peuvent utiliser leurs compétences lorsqu'ils sont « au tapis ». La compétence "Endurance" fait exception à cette règle.
+
+Affut : Compétence passive. Ne peut recevoir que les ordres "tir appuyé" et "déplacement". Hybride soldat/blindé, les servants peuvent être remplacés.
+
+Antigrav : Compétence passive. Le véhicule ne peut pas écraser à moins que le contraire soit spécifié dans son profil. Il peut effectuer son mouvement sans tenir compte des reliefs du décors. S'il est immobilisé il doit effectuer un atterissage en catastrophe (6+) ou bien être détruit.
+
+Assassin : Compétence passive. La cible de ce soldat ne peut bénéficier d'aucun « report de touche ».
+
+Avant-garde : Compétence active. Le soldat peut prendre part activement au « tour préliminaire ». Autrement dit, il joue un tour de jeu complet avant les autres soldats.
+
+Balise :  Compétence passive. Fonctionne en association avec la compétence « Téléportation ». Le soldat permet à une unité en réserve disposant de la compétence « Téléportation » de rentrer sur le terrain directement dans une zone de 3ps autour de lui.
+
+Camouflage : Compétence passive. Le soldat bénéficie d'un supplément de camouflage de 2 en « tir appuyé », et de 1 en « manœuvre » et lorsqu'il est "bloqué". (ses « modificateurs de camouflage » sont donc de -3 en « tir appuyé », en « manœuvre », et lorsqu'il est "bloqué").
+
+Catapulte : Compétence passive. 
+L'affut peut tirer trois types de munitions : 
+
+cruches enflammées = profil d'une grenade frag avec GAB 3
+
+pet de troll = profil de grenade fumigene
+
+pet de trolls malade: = profil de grenades a gaz
+Le choix est effectué après la dispersion (pas tres réaliste mais plus interessant en terme de jeu, et permet de rattraper l'inneficacité de l'arme par ailleurs)
+
+Cavalerie : Compétence passive. Le soldat se déplace de « Mv+max(D10;D10) » au lieu de « Mv+max(D6;D6) » lorsqu'il reçoit un ordre de « déplacement ». 
+En revanche il ne peut pas recevoir l'ordre « tir appuyé » et ne reçoit aucun « modificateur de camouflage » quel que soit son ordre. 
+
+Cd+X : Compétence passive. L'unité dont fait partie le personnage et les eventuels soldats "bloqués" dans un rayon de 3ps autour de lui bénéficient d'un bonus de « X » à leur caractéristique « commandement ». (Notez que le personnage n'est pas concerné par ce bonus).
+
+Démolisseur : Compétence active. Le soldat a un bonus de 2 au « jet de fixation » des grenades antichars et est immunisé à la compétence « écrasement ».
+
+Dumb : Compétence passive. Le soldat reçoit toujours un ordre au hasard et cet ordre ne peut être modifié.
+1-2 « tir appuyé », 3-4 « manœuvre », 5-6 « mouvement », 7-10 « déplacement ».
+
+Drone : Compétence passive. Le soldat est « implacable », il est immunisé aux « grenades à gaz », aux effets des aptitudes « attaque psychique », « confusion »  et « poison » et aux compétences « peur », « incubation » et "infiltration".
+De plus, ses « jets de blessure » sont résolus par : 
+1-2 « bloqué », 3-7 « au tapis », et 8-10 « hors combat ».
+
+Écrasement : Compétence passive. Le véhicule écrase tous les soldats et les décors de moindre résistance qui sont sur sa trajectoire de déplacement
+
+Tous les soldats alliés ou ennemis présents sur la trajectoire du véhicule sont écartés à droite ou à gauche de cette trajectoire, selon le plus proche,  et sont touchés sur un 6+.
+Les soldats « au tapis » qui sont sur la trajectoire du tank sont touchés automatiquement.
+Tous les soldats touchés doivent effectuer un « jet de sauvegarde » avec un modificateur de -5.
+
+Les soldats dotés de la compétence « démolisseur » sont immunisés à l'écrasement. Ils sont simplement écartés à droite ou à gauche de la trajectoire sans être touchés.
+
+Si un char tente d'écraser des soldats dotés de grenades antichars, ces derniers peuvent tenter de les fixer (cf « grenades antichars »).
+
+Endurance : Compétence passive. Les « jets de blessure » du soldat sont résolus par : 
+1-3 « bloqué », 4-6 « au tapis », 7-10 « hors combat ».
+
+Eventreur : Compétence passive. Le blindé dispose d'une arme de corps à corps antichar. Le principe d'utilisation est le même que celui d'une grenade antichar. Un éventreur à un perçage de +2 et une charge explosive de +3.
+
+Fanatique : Compétence active. Une fois activé ce personnage reçoit un ordre « déplacement » à chaque tour qui ne peut être modifié. Il se dirige vers la formation ennemie la plus proche, et à la fin de son mouvement si le personnage est vivant et qu'il n'a pas été mis au tapis il peut déclencher sa bombe.
+Si le personnage est touché au cours de son mouvement et qu'il est mis hors de combat par un 10 lors du jet de blessure, alors il explose sur place. S'il est mis « au tapis » ou « hors combat » par tout autre résultat qu'un 10, alors à chaque phase de ralliement on jette un D10. La bombe explose lorsqu'un jet de D10 est strictement supérieur au jet du tour précédent. La bombe ne peut pas être désamorcée et les jets continuent jusqu'à ce que la bombe explose. 
+La bombe provoque une explosion équivalente à celle causée par un tir d'obusier.
+
+Fixe : Compétence passive. L'affut est incapable de se déplacer, ou même de se réorienter sans une aide exterieure. Pour pouvoir déplacer ou réorienter cet affut, il faut qu'un  soldat disposant de la compétence "Cavalerie" soit en contact socle à socle avec l'affut. Le cavalier ne peut en aucun cas être considéré comme un servant de l'affut. Si un cavalier est en contact socle à socle avec l'affut, l'affut peut se réorienter, ou éventuellement se déplacer de la moitié du mouvement normal (Mv) du cavalier à la condition d'avoir reçu un ordre de déplacement, le cavalier peut, lui, être en déplacement ou en mouvement. Le cavalier et l'affut doivent être en contact socle à socle une fois le déplacement terminé. Si le cavalier est tué ou blessé au cours de son mouvement en compagnie de l'affut, l'affut reste à l'endroit même ou le cavalier est tombé, dans l'orientation la plus logique possible en considérant son mouvement.
+
+Gladiateur : Compétence active. A la fin de la phase de réorganisation des corps à corps. Le soldat inflige une touche sur 6+ à ses adversaires au contact qui sont « bloqués ».
+
+Grenades A : Compétence passive. Autorise l'utilisation des grenades antichars.
+
+Grenades FFF : Compétence passive. Autorise l'utilisation des grenades à fragmentation, fumigènes et flashbangs.
+
+Grenades à Gaz : Compétence passive. Autorise l'utilisation des grenades à gaz.
+
+Lanceur : Compétence passive. Le lanceur propulse des fanatiques dans les airs dans l'espoir qu'ils s'écrasent avec leur bombe sur les lignes adverses. Pour représenter cela, le tir d'un lanceur se décompose en deux tours : un tour où le fanatique est propulsé, un tour ou il plane encore un peu et tombe finalement. Un fanatique propulsé peut choisir en tombant au sol de ne pas faire exploser sa bombe mais de l'enclencher seulement. Il suit alors les mêmes règles qu'un fanatique mis hors combat. Le premier tour le fanatique peut effectuer un mouvement de 6D10ps à partir du lanceur et dans une direction comprise dans un angle de 90° vers l'avant du lanceur, en survolant les obstacles. Le deuxième tour il dispose d'un mouvement de 3D10ps dans la direction qu'il veut, toujours en survolant les obstacles, à la fin de son mouvement il touche violemment le sol et peut soit exploser alors, soit simplement enclencher sa bombe. Dans les deux cas cependant la chute lui est fatale, il est « hors combat » et ne se déplacera plus. L'explosion de sa bombe est équivalente en puissance à celle d'un obus.
+
+Masque à Gaz : Compétence passive. Le soldat est immunisé aux effets des « grenades à gaz » et « grenades flashbang ».
+
+Medic : Compétence passive. L'unité dont fait partie le personnage et les eventuels soldats "au tapis" dans un rayon de 3ps autour de lui bénéficient de la compétence « endurance ».
+
+Minus :  Compétence passive. Le soldat bénéficie d'un supplément de camouflage de 2 lorsqu'il est en « mouvement » ou en « déplacement ». (ses « modificateurs de camouflage » sont donc de -2 en « mouvement » et -1 en « déplacement »).
+
+Implacable : Compétence passive. Le soldat réussit automatiquement tout « test de blocage ». Seul un « jet de blessure » , l'aptitude « confusion » ou une « grenade flashbang » peuvent l'amener à être « bloqué ».
+
+Incubation : Compétence active. Durant la phase de corps à corps. Les pondeuses qui infligent une blessure à leur adversaire peuvent activer cette compétence. 
+Une pondeuse qui active la compétence "Incubation" est retirée du jeu, et son adversaire est mis "hors combat" sans même effectuer le "jet de blessure" mais ne retirez pas le cadavre du soldat du jeu. Placez un pion "incubation" sur le cadavre du soldat incubé, il sert à marqué un nouveau point d'entrée des réserves des forces alliées à la pondeuse, et ce tant que le cadavre du soldat porteur des oeufs n'est pas détruit, c'est à dire tué à nouveau.. Une fois le cadavre détruit le point d'entré des réserves est supprimé.
+
+Infiltration : Compétence active. Durant la phase d'ordre au moment de l'entrée des réserves, le soldat doit être en réserve. Quand il active cette compétence, le soldat quitte la réserve et est déployé en se substituant à n'importe quel soldat d'infanterie adverse mais pas à la place d'un "psyker" ou d'un "drone", ni à la place d'un soldat situé dans un rayon de 12ps autour d'un « psyker ».
+
+Parachutage « X » : Compétence active. Durant la phase d'ordre, au moment de l'entrée des réserves, le soldat doit être en réserve . Quand il active cette compétence, le soldat quitte la réserve et est déployé à n'importe quel endroit du terrain, à condition qu'il soit visible du ciel. Une fois le soldat placé on effectue un jet de dispersion avec une distance de dispersion de X. Ou X est généralement un Dé de valeur 100, 60 ou 10
+Jet de dispersion : On attribue aux quatres cotés et aux quatres coins de la table une valeur allant de 1 à 8 dans le sens des aiguilles d'une montre en partant d'un coté quelconque,.puis on lance un D10. La dispersion se fait dans la direction du point de la table indiqué par le résultat du dé et d'une distance de Xps. Si le résultat du dé est 9 ou 10 il n'y a pas de dispersion.
+
+Peur : Compétence passive. Le soldat est considéré comme ayant la meilleure valeur d'initiative lors d'un résultat « incertain » dans un duel de corps à corps. (cf « duel »).
+
+Psyker : Compétence passive. Le personnage est doué de pouvoirs psychiques, il est immunisé aux effets des aptitudes « attaque psychique », « confusion » et « poison », et à la compétence « peur ». En outre, il détecte les infiltrés (cf « infiltration »).
+
+Radio : Compétence active. A la phase de modification des ordres. Le personnage peut tenter de remplacer l'ordre actuel de son unité par un nouvel ordre.
+
+Le résultat de l'activation de la compétence est déterminé par un D10 :
+Sur un 5+ le nouvel ordre est confirmé, le joueur choisi un nouvel ordre pour son unité.
+Sur un 4 l'ordre actuel est conservé.
+Sur un résultat de 3 ou moins on remplace l'ordre actuel par un ordre au hasard :
+1-2 « tir appuyé », 3-4 « manœuvre », 5-6 « mouvement », 7-10 « déplacement ». 
+
+Repérage : Compétence active. Durant la phase de tir appuyé, au moment de résoudre le tir d'une pièce d'artillerie. Le personnage permet à une pièce d'artillerie alliée d'ignorer un marqueur de son choix au moment de la résolution du tir. Le marqueur doit être en vue du personnage et situé dans un rayon de 48ps autour de lui.
+
+Saut : Compétence passive. Le soldat effectue un « mouvement de charge » de 8ps au lieu de 4ps.
+
+Saut Warp : Compétence passive. Le soldat ne peut pas être pris pour cible par un « tir d'interception ».
+
+Senseur : Compétence passive. Le personnage fait bénéficier de sa valeur d'initiative tous les soldats alliés sur le champs de bataille. Autrement dit, tant que le personnage est « valide », tous les soldats de son armée ont une valeur d'initiative égale à la sienne.
+
+Tunnelier « X » : Compétence active. Durant la phase d'ordre, au moment de l'entrée des réserves, le soldat doit être en réserve . Quand il active cette compétence, le soldat quitte la réserve et est déployé à n'importe quel endroit du terrain, à condition qu'il soit sur la terre ferme. Une fois le soldat placé on effectue un "jet de dispersion" avec une distance de dispersion de X. Ou X est généralement un Dé de valeur 100, 60 ou 10
+Jet de dispersion : On attribue aux quatres cotés et aux quatres coins de la table une valeur allant de 1 à 8 dans le sens des aiguilles d'une montre en partant d'un coté quelconque,.puis on lance un D10. La dispersion se fait dans la direction du point de la table indiqué par le résultat du dé et d'une distance de Xps. Si le résultat du dé est 9 ou 10 il n'y a pas de dispersion.
+
+Téléportation :  Compétence active. Durant la phase d'entrée des réserves et associé à la compétence « Balise », le soldat doit être en réserve . Quand il active cette compétence le soldat quitte la réserve et doit être déployé dans un rayon de 3ps autour de n'importe quel soldat allié disposant de la compétence « Balise ».
+
+
+
+
+
+Antichar :  Le soldat ne peut tirer que sur une cible blindée. Il ne peut tirer que s'il reçoit un ordre de « tir appuyé ».
+
+Lourde « X » : Le soldat ne peut tirer que s'il reçoit un ordre de « tir appuyé ». Il peut alors effectuer « X »  tirs au lieu d'un seul.
+
+Tir Indirect "V/W X-Y Z" : Le soldat peut tirer n'importe où sur le terrain à la condition que le point ciblé soit visible du ciel. 
+On place W points d'impacts possibles, espacés l'un de l'autre d'un minimum de Xps, et d'un maximum de Yps. On tire au hasard parmi les W points d'impact possibles les V points d'impact réels. L'impact au niveau de chaque point est égal à un gabarit de Zps de rayon.

@@ -1,0 +1,144 @@
+Phase de ralliement
+Les joueurs effectuent un duel de D10. 
+Pour cette phase le gagnant du duel est le joueur « Alpha », le perdant est le joueur « Oméga ».
+9 phases secondaires :
+	-Esquives
+
+	-Réorganisation des corps à corps
+
+	-Explosion des grenades antichars
+
+	-Détérioration et explosion des véhicules
+
+	-Dispersion des gaz et fumigènes
+
+	-Bilan des objectifs 
+
+	-Réparation des véhicules 
+
+	-Déblocage
+
+	-Soins
+1 – Esquives :
+Au cours de cette phase les soldats « engagés » qui le désirent peuvent tenter une « esquive ».
+Engagé  :
+Tout soldat qui est seul en contact socle à socle avec un ou plusieurs ennemis valides est  « engagé ». 
+
+IMPORTANT : Est « valide » tout soldat qui n'est ni « bloqué », ni « au tapis ».
+
+Tant qu'il est « engagé » un soldat ne peut pas recevoir d'ordre. L0es deux seuls actions qu'il lui est possible d'effectuer sont combattre en corps à corps et tenter une « esquive ». 
+En aucun cas il ne peut se déplacer ou tirer.
+
+IMPORTANT : Effectuer une esquive pour quitter un corps à corps n'est nécessaire que dans le cas où le soldat est « engagé ». Les soldats surnuméraires d'un duel complexe ne sont pas « engagés », ils peuvent donc tous le quitter sauf l'un d'entre eux.
+Esquive :
+Une esquive permet a un soldat engagé en corps à corps de s'en dégager immédiatement et de s'en écarter d'une distance de 6ps.
+Pour qu'une esquive soit un succès, le soldat doit se désengager de la totalité de ses adversaires en contact.
+Le soldat qui tente l'esquive effectue un seul et unique jet de D10 auquel il ajoute son initiative, chacun de ses adversaires valides fait de même.
+
+	1.Si le jet du soldat qui effectue l'esquive est supérieur à celui de chacun de ses adversaires, il peut alors procéder à son mouvement de 6ps dans la direction de son choix.
+
+	2. Si le jet du soldat qui effectue l'esquive est inférieur ou égale à au moins un des scores obtenus par ses adversaires, il subit une touche de la part de ce ou de ces adversaires.
+
+IMPORTANT : Si votre dernier soldat valide quitte un corps à corps, laissant face à son ennemi uniquement des soldats « bloqués » ou « au tapis », vos soldats « au tapis » seront mis « hors combat » lors de la phase de réorganisation des corps à corps.
+
+2 – Réorganisation des corps a corps :
+Tous les soldats qui ont chargé ou ont participé à un corps à corps au cour de la phase de corps à corps précédente et qui ne sont ni « engagés », ni « bloqués », ni « au tapis », disposent d'un mouvement de 2ps. Les mouvements sont effectués par ordre décroissant puis croissant d'initiative avec l'avantage au joueur « Alpha ».
+
+Une fois ce mouvement effectué, tous les soldats « au tapis » qui sont au contact d'un ennemi « valide » qui n'est pas « engagé » sont automatiquement mis « hors combat » et retirés du jeu. 
+
+Enfin, les soldats « valides » dotés de la compétence « gladiateur » infligent à leurs ennemis au contact et bloqués une touche sur 6+(D10).
+2 – Explosion des grenades antichars :
+Les grenades à plasma ou à fusion qui ont été appliquées sur des blindés détonnent et leurs effets sont applicables immédiatement. On effectue un « jet de dégât groupé »sur le blindé en utilisant le « perçage » et la « charge » du type de grenade concerné.
+
+3 – Détérioration et explosion des véhicules :
+Les véhicules dont les dégâts à l'ensemble « réservoir » ont atteint la marque "X" perdent un « point » dans leurs ensembles « propulsion », « moteur », et « cargo ».
+
+Les véhicules dont les dégâts à l'ensemble « réservoir » ont atteint la marque "Y" perdent deux « points » dans leurs ensembles « propulsion », « moteur », et « cargo ».
+
+Les véhicules dont le réservoir est détruit, ou autrement dit, les véhicules dont les dégâts à l'ensemble « réservoir » sont maximums (aucun "point" restant) explosent.
+L'explosion provoque...
+
+4 – Dispersion des gaz et fumigènes :
+Les gaz et fumigènes se déplacent au gré des vents ou se dissipent. On jette un D6 et un « dé de dispersion » pour chaque nuage de gaz et de fumigènes :
+
+-Si le D6 indique un 6 le nuage s'évanouit, il est retiré. Dans les autres cas le nuage se déplace du nombre de « pas » indiqué par le dé dans la direction indiquée par le « dé de dispersion ».
+Lors de la phase de ralliement suivante ce nuage s'évanouit sur un 5+.
+La phase suivante sur un 4+.
+Et ainsi de suite.
+
+NOTE: Il est possible d'utiliser un dé pour marquer l'âge des nuages et éviter ainsi des litiges sur leur disparition.
+
+5 – Bilan des objectifs :
+Les « points de victoire » sont comptabilisés conformément au scénario.
+Les « verrous de victoire » ou les « causes de défaites » et les « cas de match nul » sont analysés conformément au scénario.
+
+6 – Réparation des véhicules :
+Chaque véhicule peut essayer de réparer un ensemble de son choix par tour à condition que l'ensemble ne soit pas « détruit ». Sur 6+ il récupère 1 point. 
+
+Un véhicule en tir appuyé peut choisir de ne pas tirer pour bénéficier d'une tentative de réparation supplémentaire à ce tour. 
+Un véhicule peut donc récupérer un « point » s'il réussit un jet à 6+, et jusqu'à deux « points » s'il réussit 2 jets à 6+ à la condition d'être en tir appuyé et de n'avoir pas tiré à ce tour.
+
+7 – Déblocage :
+Durant cette phase, tous les soldats « bloqués » effectuent un « jet de blocage », tous ceux qui réussissent sont immédiatement « débloqués » et pourront recevoir un ordre au tour prochain, tous ceux qui échouent restent « bloqués ».
+Test de blocage : 
+On effectue un « test de blocage » : 
+
+1. Quand un soldat « valide » est touché mais qu'il réussit son « jet de sauvegarde ».
+
+2. Pour chaque soldat « bloqué » durant la phase de déblocage.
+
+On résout un « test de blocage » :
+
+En comparant la valeur de « commandement » d'un soldat avec le résultat d'un D10.
+
+Si le résultat du D10 est supérieur ou égal au « commandement » du soldat, le soldat est déclaré « valide ».
+
+Si le résultat du D10 est inférieur au « commandement » du soldat, le soldat est déclaré « bloqué ».
+
+« Bloqué » :
+Désigne un état de prostration, qui empêche le soldat de continuer à agir. On signale l'état « bloqué » d'un soldat soit par un pion dédié à cet effet, soit en couchant le soldat sur le dos.
+
+Un soldat « bloqué » perd l'ordre qu'il possède et jusqu'à ce qu'il soit débloqué il ne peut plus en recevoir.
+
+Il ne peut effectuer aucune action d'aucune sorte et ne peut utliser aucune compétence ou aptitude excepté « Implacable », mais il effectue un « test de blocage » à la fin de chaque tour durant la phase de déblocage, jusqu'à ce que son état évolue.
+
+Un soldat bloqué pris pour cible par un tir bénéficie d'un « modificateur de camouflage » de -2 et de -3 s'il bénéficie de la compétence « camouflage ».
+
+Un soldat bloqué s'il est engagé en corps à corps est automatiquement débloqué et retrouve un état « valide » immédiatement, il combat néanmoins avec un malus de -2 à sa CC pour ce tour.
+
+« Valide » :
+Désigne l'état normal d'un soldat, est « valide » tout soldat présent sur le champs de bataille qui n'est ni « bloqué », ni « au tapis ».
+
+Un soldat valide peut recevoir un ordre et effectuer les actions qui y sont associées avec les modificateurs qui y sont associés.
+
+Un soldat valide peut utiliser ses compétences et ses aptitudes.
+
+Notes :
+« Implacable » :
+Désigne une compétence.
+Certains soldats bénéficient de la compétence « implacable » qui leur permet de considérer le jet de blocage comme un succès sans même avoir à lancer le dé.
+
+IMPORTANT : Un soldat « au tapis » n'est jamais concerné par un « jet de blocage », l'état « au tapis » étant plus grave que « bloqué ».
+
+NOTE : La valeur de « commandement » peut être modifiée par un personnage alentour.
+8 – Soins :
+Durant cette phase, tous les soldats « au tapis » effectuent un nouveau « jet de blessure ».
+Jet de blessure :
+On lance 1D10 :
+
+-Si le résultat du jet de dé est 1 ou 2 le soldat n'est désormais plus que « bloqué », il pourra tenter de se « débloquer » à la fin du prochain tour. 
+
+-Si le résultat du jet de dé est 3, 4 ou 5 le soldat est « au tapis », il effectuera un nouveau « jet de blessure » à la fin du prochain tour.
+
+-Si le résultat du jet de dé est 6, 7, 8, 9 ou 10 le soldat est « hors combat » et est retiré du jeu. 
+
+	L'aptitude « medikit » transforme exceptionnellement un résultat « hors combat » ou « au tapis » en un résultat « bloqué ».
+
+	L'aptitude « appel au sacrifice » transforme exceptionnellement tous les soldats « bloqués » et « au tapis » en soldats valides.
+
+	La  compétence « endurance » fait passer les résultats du test de soins à 1-3 « bloqué », 4-6 « au tapis », et 7-10 « hors combat ».
+
+	La compétence « drone » fait passer les résultats du test de soins à 1-2 « bloqué », 3-7 « au tapis », et 8-10 « hors combat ».
+
+
+Une fois cette phase terminée les ordres sont retirés et un nouveau tour peut commencer.

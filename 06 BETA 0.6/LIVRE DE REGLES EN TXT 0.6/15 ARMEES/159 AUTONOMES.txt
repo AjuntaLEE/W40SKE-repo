@@ -1,0 +1,29 @@
+Les Autonomes
+	Qu'on les considère comme morts ou vivants, ils s'en fichent. La plupart de ces créatures faites de métal sont en elles-mêmes assez peu sensibles tant à la philosophie qu'aux nuances linguistiques et sont contrôlées par diverses intelligences artificielles supérieures disséminées aux quatre coins de la galaxie, qui, elles, se désintéressent des questions de « vie » et de ''mort'', ayant atteint un stade ou ces termes sont à vrai dire insensés. 
+	Les machines-outils ne sont rien de plus que de vulgaires boîtes de conserves programmées pour l'exploitation, la fabrication, la terra-formation, ou la guerre. 
+	Les I.A. quant à elles, et ils en existent de différentes sortes, à différents stades d'évolution, sont en général au moins aussi sensibles et individualistes que les Eldars, c'est à dire largement plus qu'un humain, et sans comparaison possible avec un Space Marine. 
+	Assez semblables tant dans leurs façons que dans leurs objectifs aux  tyranides, les autonomes ne se différencient de ces derniers que par un goût accru pour la culture et la technologie lorsque les essaims de monstres organiques préfèrent l'évolution simple et brutale de leur génome. 
+
+Droïde Type ''Relais'' :
+Ce droïde d'un gabarit plus large que les autres sert d'antenne de liaison directe avec l'IA. Là où le droïde tactique ne fait que retransmettre des informations brutes ne permettant qu'une analyse générale de la situation, le relais permet à l'IA de voir directement le champ de bataille par les yeux de tous les droïdes en même temps, et dès lors, chacun de ces robots devient quasiment omniscient et à peu de chose près infaillible.
+
+Droïde Type ''Tactique'' :
+D'un modèle proche du type ''Invasion'', il est chargé de la centralisation et de la retransmission des données tactiques en l'absence de droïde de relais. Contrairement à ses congénères, il est doté d'un programme tactique avancé, de senseurs et d'appareils de transmission pointus. Ces  droïdes sont donc un peu les yeux et les oreilles de l'IA lorsqu'elle ne gère pas directement les combats. Plus ils sont nombreux, plus la stratégie de l'IA peut se développer avec précision.
+
+Droïdes Type ''Hurleurs'' : 
+Tout droit sortis des plus effroyables cauchemars que l'humain ait connu depuis l'aube des temps, ou peut-être juste sortis d'un film de science-fiction de la fin du deuxième millénaire, les Hurleurs sont de vrai saloperies qui vous trouent la peau en un rien de temps. (Et en plus dans le film ils évoluent vachement vite...)
+
+Droïde Type ''Invasion'' :
+A peu de chose près c'est une tourelle mobile, dont l'IA se  sert afin de pacifier tout ce qui se trouve à la surface d'une planète habitée par des nuisibles. Aussi efficace que dénué de cervelle, ce droïde est pour ainsi dire aussi doué d'initiative qu'un Space Marine dans ses bons jours, ce qui est loin de constituer un compliment de ma part. 
+
+Androïde Type ''Protocolaire'' :
+Fabriqué à des fins parlementaires d'abord, une IA ayant un jour fait remarquer que les humanoïdes sont plus sensibles aux tas de ferrailles s'ils leur ressemblent quand il s'agit de discuter (car lorsqu'il s'agit de tirer la station bipède n'a jamais engendré le moindre scrupule), l'androïde a finalement reçu un équipement de combat tant il est vrai qu'il est plus facile d'obtenir ce que l'on veut avec un flingue et un mot gentil qu'avec le mot gentil tout seul.
+
+Androïde Type ''Cyborg'' :
+Fabriqué à des fins parlementaires d'abord, le type ''C'' pousse à sa plus vive expression la notion d'identification et de camouflage puisqu'il est capable de reproduire le faciès disgracieux des humanoïdes qu'il côtoie. Mais là encore, la chose parlementaire se révélant bien souvent décevante lorsqu'elle s'adresse à des intelligences inférieures incapables de voir la défaite avant de se la prendre rudement et sans préliminaires dans l'arrière-train, il a été équipé d'arguments légèrement plus tranchants. 
+
+Droïde Type ''Antichar'' :
+Même modèle que le type ''Invasion'', mais avec, comme son nom l'indique, un goût plus prononcé pour la pénétration. 
+
+Droïde de classe II type ''Arachnoïde'' : 
+L'arachnoïde est un droïde de relais de classe supérieure. Il dispose d'un bien meilleur blindage et d'armes plus lourdes qui mettent l'IA à l'abri de voir sa liaison trop facilement interrompue lors des batailles les plus importantes. Voir une de ces machines sur le terrain signifie généralement que l'IA ne veut prendre aucun risque et prendre la fuite peut alors se révéler une bonne option. 

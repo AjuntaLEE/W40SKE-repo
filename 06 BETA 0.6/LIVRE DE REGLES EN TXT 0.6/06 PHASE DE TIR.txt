@@ -1,0 +1,182 @@
+Phase de tir
+Les joueurs effectuent un duel de D10. 
+Pour cette phase le gagnant du duel est le joueur « Alpha », le perdant est le joueur « Oméga ».
+3 phases secondaires :
+	-La phase de tir appuyé
+	
+	-La phase de tir tactique
+	
+	-La phase de tir de riposte
+1 – Phase de tir appuyé  :
+Par ordre d'initiative décroissante les unités ayant reçu un ordre de « tir appuyé » font feu, sauf si elle l'ont déjà fait lors de la phase de mouvement. Si les deux joueurs ont des soldats possédant la même valeur d'initiative les soldats du joueur « Alpha » font feu avant les soldats du joueur « Oméga ».
+
+Les unités qui ont reçu un ordre de « tir appuyé » ont un bonus pour toucher de 1 (cf « modificateurs de tir »).
+2 – Phase de tir tactique :
+Par ordre d'initiative décroissante les unités ayant reçu un ordre « mouvement » font feu ou déclarent une charge. Si les deux joueurs ont des soldats possédant la même valeur d'initiative les soldats du joueur « Alpha » font feu avant les soldats du joueur « Oméga ».
+
+Les unités qui ont reçu un ordre de « mouvement » ont un malus pour toucher de 1 (cf « modificateurs de tir »).
+3 – Phase de tir de riposte :
+Par ordre d'initiative décroissante les unités ayant reçu un ordre « manœuvre » font feu ou déclarent une charge. Si les deux joueurs ont des soldats possédant la même valeur d'initiative les soldats du joueur « Alpha » font feu avant les soldats du joueur « Oméga ».
+
+Les unités qui ont reçu un ordre de « manœuvre » n'ont ni bonus ni malus à leur tir (cf « modificateurs de tir »).
+Exemple :
+Marc possède trois escouades de Space Marines d'initiative 5, Luc possède une escouade de Rangers d'initiative 6 et une escouade de Gardiens d'initiative 5. Marc a mis deux de ses escouades de Space Marines en « tir appuyé » et une en « manœuvre ». Luc a mis son escouade de Gardiens en « manœuvre » et son escouade de Rangers en « mouvement ».
+Pour le duel de D10 Marc obtient un 8 et Luc un 3 , c'est Marc qui a l'ascendant.
+On commence par les unités en « tir appuyé ».
+Deux escouades sont en « tir appuyé », les deux escouades de Space Marines de Marc, mais l'une d'elles a déjà fait un tir d'interception pendant le mouvement d'une escouade de Luc et ne peut donc plus tirer pour ce tour, en revanche l'autre escouade prend pour cible les Rangers et fait feu, elle en fauche 3 ce qui ne manquera pas de diminuer la puissance de feu adverse.
+Comme il n'y a plus de tirs appuyés on passe au tir tactique. Seuls les Rangers de Luc ont un ordre « mouvement » ils tirent à leur tour sur l'escouade de Marc mais diminués par la salve précédente de Marc, ils ne font qu'un blessé.
+On passe ensuite aux tirs de riposte. Là, comme les deux escouade ont la même initiative de 5 c'est l'escouade de Marc qui fait feu en premier puisqu'il a gagné le duel de D10, l'escouade de Gardiens tirera ensuite.
+
+Résolution d'un tir standard
+Le joueur détermine avec lequel de ses soldats et sur quel soldat adverse il tire.
+
+Ensuite il totalise :
+-Les « modificateurs de tir » 
+	Relatifs à l'ordre du soldat ou du véhicule qui tire :
+
++1 en « tir appuyé », 0 en « manœuvre », -1 en « mouvement » pour l'infanterie.
+
++1 en « tir appuyé », 0 en « manœuvre », -2 en « mouvement » pour les véhicules.
+
+-Les « modificateurs de portée »  :
+	Relatifs à l'arme utilisée (cf « tableau des armes »).
+
+-Les « modificateurs de couvert » : 
+	Relatifs au décors et à l'environnement de la cible :
+
+Un soldat dont on voit moins de 10% depuis la zone du tireur ne peut pas être pris pour cible.
+	
+Un soldat dont on voit entre 10% et 50% depuis la zone du tireur apporte un couvert de -2.
+	
+Un soldat dont on voit entre 50% et 90% depuis la zone du tireur apporte un couvert de -1. 
+	
+Un soldat dont on voit plus de 90% depuis la zone du tireur n'apporte aucun malus de couvert.
+
+En outre on soulignera que :
+
+Un soldat en contact avec un élément de décors de taille et de disposition propre à l'abriter du tir apporte un couvert supplémentaire de -1.
+
+-Les « modificateurs de camouflage » 
+	Relatifs à l'ordre de la cible :
+
++1 en « déplacement », 0 en « mouvement », -1 « tir appuyé » et -2 « manœuvre »
+
+Cas particuliers :
+
++1 en « déplacement », 0 en « mouvement », -3 « tir appuyé » et -3 « manœuvre » avec la compétence « camouflage »
+
+-1 en « déplacement », -2 en « mouvement », -1 « tir appuyé » et -2 « manœuvre » avec la compétence « minus »
+
+
+Le tir est résolu par le jet d'un D10 auquel on ajoute le total obtenu ci-dessus. La cible est touchée si cette valeur est égale ou supérieure à la CT du tireur. Si la valeur est strictement inférieure à la CT du tireur, c'est un échec.
+
+IMPORTANT : Souvent les tirs peuvent être effectués de manière groupée (d'unité à unité et non pas de soldat à soldat). Mais assurez vous que cela n'occasionne aucun litige avec l'autre joueur.
+
+Report de touche : 
+Le joueur qui possède un soldat touché peut reporter le tir sur un autre de ses soldats également visible du tireur, situé immédiatement à proximité (2ps ou moins) et bénéficiant d'une valeur de couvert égale ou inférieure.
+Ce report sert à ce que les joueurs ne tuent pas systématiquement les personnages présent dans une unité, les personnages sont donc manifestement plus difficiles à tuer s'ils sont inclus dans une unité que dans le cas contraire.
+
+IMPORTANT : Il n'est pas possible de reporter le tir sur un soldat trop éloigné ou plus difficile à toucher, si votre personnage est plus facile à toucher que les soldats qui l'entourent ou s'il n'est plus dans l'unité, il essuiera les tirs sans que personne ne puisse rien y faire.
+
+Jet de sauvegarde : 
+Une fois la touche attribuée le soldat désigné doit effectuer un jet de sauvegarde.
+
+Pour cela on calcule sa sauvegarde en ajoutant le modificateur de sauvegarde de l'arme utilisée contre lui à sa caractéristique de sauvegarde. On effectue un jet de D10. 
+
+Si le score affiché par le dé est supérieur ou égal à sa sauvegarde c'est un succès. Dans ce cas le soldat est épargné et devra faire un jet de blocage. 
+
+Si au contraire le jet de D10 est strictement inférieur à la sauvegarde le soldat devra effectuer un jet de blessure.
+
+Jet de blocage : 
+Si un soldat est touché mais qu'il réussit sa sauvegarde il effectue un « jet de blocage » :
+
+C'est un jet de D10 comparé à sa valeur de « commandement », celle-ci peut être éventuellement modifiée par un personnage alentour. 
+
+Si le résultat du D10 est supérieur ou égal au « commandement » de votre soldat, celui-ci peut continuer à se battre normalement. 
+
+Si, au contraire, le résultat du D10 est strictement inférieur à son « commandement » le soldat est bloqué, c'est à dire qu'il se jette à terre pour éviter d'être pris pour cible à nouveau. 
+
+Bloqué, il ne peut désormais plus bouger, il ne pourra ni tirer ni charger, et s'il est engagé au corps à corps, il se relèvera et combattra avec une CC diminuée de 2, 
+
+Le blocage se termine à la fin du tour pendant la phase de ralliement.
+
+Certains soldats bénéficient de la compétence « implacable » qui leur permet de considérer le jet de blocage comme un succès sans même avoir à lancer le dé.
+
+Jet de blessure :
+Si un soldat est touché et qu'il rate sa sauvegarde il effectue un jet de blessure :
+
+-Si le résultat du jet de dé est 1 ou 2 le soldat est simplement « bloqué ». 
+La compétence « implacable » n'est d'aucune utilité dans ce cas là, et les soldats en bénéficiant sont cloués au sol par l'impact comme tout le monde.
+
+-Si le résultat du jet de dé est 3, 4 ou 5 le soldat est mis « au tapis », il ne peut désormais plus jouer mais n'est pas retiré du jeu. Sa blessure évoluera à la fin de chaque tour jusqu'à ce qu'il ne soit plus que « bloqué », ou qu'il soit définitivement « hors combat ».
+
+-Si le résultat du jet de dé est 6, 7, 8, 9 ou 10 le soldat est « hors combat » et est retiré du jeu. 
+
+Cas particuliers :
+
+La  compétence « endurance » modifie les plages de résultats du jet de blessure de la manière suivante : 1-3 « bloqué », 4-6 « au tapis », et 7-10 « hors combat ».
+
+La compétence « drone » modifie les plages de résultats du jet de blessure de la manière suivante : 1-2 « bloqué », 3-7 « au tapis », et 8-10 « hors combat ».
+
+IMPORTANT : un jet de blessure dont le résultat est plus avantageux qu'un résultat précédent est ignoré, il est bien évident qu'un personnage au tapis ne peut pas se retrouver tout à coup seulement bloqué suite à un tir supplémentaire faisant mouche. En revanche il est tout à fait possible qu'un soldat qui était seulement bloqué ne soit mis au tapis pour de bon par un nouveau tir, voire qu'il soit tout simplement terrassé par la nouvelle salve. Le résultat qui induit l'état le plus critique pour votre soldat est le seul à être comptabilisé au final.
+
+Tir sur un corps a corps :
+Il est impossible de tirer sur un adversaire tant que celui ci est en corps à corps (au contact socle à socle).
+
+Tir a travers un corps a corps :
+Il est impossible de tirer sur un adversaire si la trajectoire du tir passe à travers une zone de corps à corps.
+Exemple :
+L'escouade de 7 Rangers de Luc a reçu un ordre de « tir appuyé », l'escouade de 4 Space Marines de Marc est en « déplacement ». Lorsque les marines se précipitent à découvert courant vers l'abri le plus proche à toute jambes Luc déclare un tir d'interception.
+Les Rangers Eldars sont de fins tireurs et possèdent une CT de 4+, (soit 7 chance sur 10 de faire mouche) et sont en « tir appuyé » ce qui leur confère un bonus de +1 et les amène donc à un 3+ (soit 8 chance sur 10 de faire mouche).
+Les Rangers sont équipés de fusil lasers, les Space marines reçoivent la salve à une distance de 28 « pas », et à cette distance le fusil laser souffre d'un malus de précision de 4 ce qui amène à présent le jet à 7+ (soit 4 chance sur 10 de faire mouche)
+Les Space Marines ont été pris à découvert et il n'y a rien qui bloque la ligne de vue des Rangers le jet reste donc 7+.
+Dernier modificateur : les marines pressés de se mettre en sûreté ont effectué un ordre de déplacement, sacrifiant tout pour aller plus vite, ils ne cherchent pas à se déplacer avec précaution et donnent un bonus de 2 à quiconque leur tire dessus. Amenant donc le jet à un 5+ final.
+Luc décide de répartir ses sept tirs de la manière suivante : deux sur chacun des trois premiers marines et un sur le dernier.
+Il jette donc deux dés pour le premier marine et obtient 8 et 9, les deux jet sont supérieur à 5 et touchent donc tous les deux. 
+Marc doit donc réussir 2 jets de sauvegarde pour éviter à son marine d'être blessé ou pire. Les Marines ont une armure solide et bénéficient d'un jet de sauvegarde de 4+ mais les fusil laser on une valeur de perçage de -1 ce qui amène le jet à 5+. Marc jette les dés et obtient un 4 et un 8 , le 8 est une réussite et entraîne donc un simple jet de blocage mais ce jet ne sera pas important car Marc a également fait un 4 et devra donc faire un jet de blessure pour son marine. Il jette le dé de blessure et obtient un 4, le Marine mord donc la poussière en se tordant de douleur au milieu de son mouvement et ne pourra pas le terminer ce qui fait de lui une cible de choix pour le reste de l 'armée.
+Luc jette à présent les dés pour le deuxième marine. Cette fois ci il est encore chanceux et obtient un 5 et un 7, les deux tirs sont des réussites. Marc jette les deux jets de sauvegarde et obtient deux 1, ce qui équivaut à deux jets de blessure. Pour ces derniers, il obtient un 8 et un 7, son marine vient d'encaisser deux impacts mortels et est retiré du jeu.
+Luc jette les dés pour le troisième Marine et obtient un 2 et un 4, ce marine là est passé entre les balles et ne sera pas inquiété davantage.
+Luc jette son dernier dé de tir pour le quatrième Marine et obtient un 5. Marc effectue le jet de sauvegarde et obtient un 8, le marine doit donc faire un simple jet de blocage mais sa vie n'est plus en danger. Les marines sont de fiers guerriers et ont un commandement de 3+, Marc décidément malchanceux obtient un 2 et son Marine est donc bloqué, il se jette au sol et son mouvement s'arrête ici.
+Le tir d'interception se termine là dessus. Comme Luc n'a pas d'autres soldats effectuant un tir d'interception sur cette unité de marines, le marine encore debout termine donc son déplacement laissant derrière lui un mort, un blessé et un camarade bloqué. Ces deux derniers immobilisés et à découvert sont des cibles faciles pour le reste de l'armée de Luc qui a désormais la possibilité d'achever le travail entamé par les Rangers.
+
+Résolution d'un tir contre un blindé
+La capacité de tir (CT) d'un soldat qui tire sur un blindé est toujours de 3+, quelle que soit sa CT habituelle.
+
+Pour résoudre le tir on totalise :
+-Les « modificateurs de tir » 
+	Relatifs à l'ordre du soldat ou du véhicule qui tire :
+
++1 en « tir appuyé », 0 en « manœuvre », -1 en « mouvement » pour l'infanterie.
+
++1 en « tir appuyé », 0 en « manœuvre », -2 en « mouvement » pour les véhicules.
+
+-Les « modificateurs de portée »  :
+	Relatifs à l'arme utilisée (cf « tableau des armes »).
+
+-Les « modificateurs de toucher » 
+	Relatifs à la fois à l'ordre et au « rang » du véhicule ciblé (cf « tableau des véhicules »).
+
+
+Le tir est résolu par le jet d'un D10 auquel on ajoute le total obtenu ci-dessus. Le véhicule est touché si cette valeur est égale ou supérieure à 3 (la CT lorsqu'on tire sur un véhicule est toujours de 3+). Si la valeur est strictement inférieure à 3 c'est un échec.
+
+Une fois le véhicule touché on effectue ce qu'on appelle le "jet de dégâts groupés" :
+Jet de dégâts groupés :
+Il consiste à jeter simultanément un D10 et un D6.
+
+La valeur du Dé ayant le meilleur résultat est ajouté au « perçage » de l'arme utilisée, et constitue le « jet de perçage ».
+
+La valeur du Dé ayant le résultat moindre est ajouté à la « charge » de l'arme utilisée, et constitue le « jet de charge explosive ».
+
+-Si le « jet de perçage » est strictement inférieur à la « résistance » du véhicule le tir est sans effet.
+
+-Si le « jet de perçage » est compris entre la valeur de « résistance » du véhicule et la somme  de la valeur de « résistance » et de « blindage » du véhicule, les dégâts sont « externes ». On effectue un « jet de localisation » « externe » sur le tableau relatif au véhicule (voir "tableau de localisation"). On retranche alors, sur la fiche du véhicule, un nombre de « points » égal au « jet de charge explosive » aux « points » restants dans la section concernée.
+
+-Si le « jet de perçage » est strictement supérieur à la somme  de la valeur de « résistance » et de « blindage » du véhicule, les dégâts sont « internes », le véhicule perd un « point » de « blindage » et effectue un « jet de localisation » « interne » sur le tableau relatif au véhicule (voir "tableau de localisation"). On retranche alors, sur la fiche du véhicule, un nombre de « points » égal au « jet de charge explosive » aux « points » restants dans la section concernée.
+
+Jet de localisation :
+Choisir le tableau qui correspond au « rang » du blindé.
+Choisir la ligne qui correspond au type de dégâts infligés (« externe » ou « interne »)Lancer un D10 (D6 pour les affuts), le résultat du Dé indique la localisation des dégâts.
+
+Dégâts infligés à un  véhicule :
+Voir la section dédiée aux blindés à la fin de ce livre.
+Exemple :

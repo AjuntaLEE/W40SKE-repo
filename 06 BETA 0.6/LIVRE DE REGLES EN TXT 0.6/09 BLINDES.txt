@@ -1,0 +1,111 @@
+LES BLINDES
+Les 8 classes de blindés existantes sont : 
+	-Les affûts
+	-Les motos
+	-Les marcheurs
+	-Les transports légers
+	-Les transports moyens
+	-Les transports lourds
+	-Les tanks légers
+	-Les tanks lourds
+
+Les blindés sont composés de plusieurs ensembles. Chaque ensemble est détruit séparément. La destruction d'un ensemble n'empêche pas nécessairement le fonctionnement des autres ensembles du blindé. La destruction de la propulsion n'empêche pas l'utilisation de ses armes et vice-versa. 
+Les différents ensembles qu'ont peut trouver dans un véhicule sont :
+1.Blindage
+2.Arme (1, 2 ou 3)
+3.Équipage
+4.Propulsion
+5.Moteur
+6.Réservoir
+7.Cargo
+Tous les blindés ne possèdent pas tous ces ensembles.
+Chaque « ensemble » possède un certain nombre de points de vie qu'on appelle simplement « points ». 
+Plus un « ensemble » perd de « points », plus il se rapproche de sa destruction. La destruction d'un « ensemble » survient lorsque celui-ci ne possède plus aucun « point ». Elle entraîne généralement avec elle une perte d'efficacité et parfois même la destruction du véhicule tout entier (voir "pertes d'efficacité"). 
+Avant qu'un « ensemble » soit détruit, il perd cependant de son efficacité progressivement. Pour le « blindage », cette perte d'efficacité progressive est lisible directement sur la « fiche du véhicule ». Pour les autres « ensembles », les marqueurs "X", "Y" et "Z" servent à repérer les moments où les pertes d'efficacité se produisent et renvoient à des effets qui dépendent de l'« ensemble » concerné (voir "pertes d'efficacité"). 
+Le nombre de points perdus par un ensemble lors d'un tir dépend directement de la valeur du « jet de charge explosive » du tir. Cette valeur est retranché aux points restant de l'ensemble concerné, si le nombre de points retranchés arrivent au niveau d'une marque X, Y, ou Z, l'ensemble perd de son efficacité (voir "pertes d'efficacité").
+
+Note sur le blindage : un véhicule dont le blindage est détruit reporte automatiquement tout dégât effectué sur son blindage sur un ensemble définit par un jet de localisation interne.
+Note sur la destruction d'un ensemble : la destruction entraine toujours certains effets. Lorsqu'un ensemble est détruit il ne peut plus être réparé.
+1 – Les affûts :
+Les affuts sont des supports pour des armes tellement lourdes et encombrantes qu'elles n'entrent pas dans les catégories habituelles.
+
+Règles sur les affuts :
+Les affuts ne peuvent recevoir que deux ordres : « Tir appuyé » et « Déplacement ».
+Les affuts ne peuvent recevoir d'ordre que s'ils ont un minimum d'un servant. Un servant est un soldat d'infanterie légère ou d'élite qui se trouve en contact socle à socle avec l'arme et qui ne reçoit pas un ordre différent de celui de l'arme. Un affut à un maximum de deux servants simultanément. Tant que l'affut n'est pas détruit, tout servant tué peut-être remplacé par un soldat valide s'il remplit les conditions énoncées plus haut (contact et ordre). Un servant n'a pas d'existence propre sur le champs de bataille, à partir du moment ou un soldat devient servant, il ne peut plus être pris pour cible en tant que soldat, il ne peut plus tirer, et ne peut se déplacer qu'avec l'arme. Un servant peut redevenir un soldat normal durant la phase d'embarquement/débarquement.
+Un affut fait feu comme n'importe quelle unité, mais son « initiative » dépend du nombre de servant qui lui est alloué (1 servant procure à l'affut une initiative de 1; 2 servants procurent à l'affut une initiative de 3).
+Tant qu'il est en « tir appuyé » un affut encaisse les tirs comme tous les blindés, avec cependant quelques particularités :
+Chaque fois qu'un tir avec une valeur de « jet de charge explosive » supérieur à 0 est localisé sur « Servant », un des servant doit effectuer un jet de blessure (pas de sauvegarde). Si un affut perd son ou ses servants il est inutilisable jusqu'à en avoir de nouveaux. Dans le cas ou un affut perd son ou ses servants avant d'avoir fait feu, le tir de l'affut n'a pas lieu. 
+Si l'arme de l'affut est détruite, les servants sont automatiquement libérés de leur statut, ils reprennent part au jeu normalement dès lors.
+Lorsqu'il reçoit un ordre de « déplacement »,  un affut perd momentanément son statut, et tout tir dirigé contre lui sera automatiquement dirigé contre ses servants qui seront considérés dans ce cas comme n'importe quels soldats. Cela veut dire qu'un affut ne peut être pris pour cible durant son déplacement, mais qu'en revanche les servants pourront être pris pour cible normalement par toutes les armes conventionnelles. Si les servants sont tués au cours du déplacement, l'affut reste seul et inutile à l'endroit où le dernier d'entre eux est mort. L'affut devra attendre de nouveaux servants pour être actif.
+Un affut peut être capturé par l'ennemi.
+Un affut sans servant est immobile, dans la mesure où il est immobile il peut être pris pour cible.
+Un tir localisé sur « servant » alors que l'arme ne dispose d'aucun servant est sans effet. Le tir est perdu.
+Une grenade antichar fixée sur un affut entraine toujours sa destruction totale à la fin du tour.
+
+Dégâts infligés à un affut :
+Les affuts sont des blindés qui ne possèdent que deux ensembles :
+1.Blindage
+2.Arme
+Le fonctionnement de ces deux ensembles sont en tous points identiques à ceux des véhicules.
+Cependant, là où les autre blindés possèdent un équipage qui leur est propre, les affuts peuvent être maniés par n'importe quels soldats sur le champs de bataille du moment qu'ils sont en contact socle à socle avec l'arme et qu'il sont soit en tir appuyé, soit en déplacement.
+Cela entraîne que tout tir sur l'affut dont la localisation est « Servant » et dont le « jet de charge explosive » à une valeur d'au moins 1 met automatiquement hors-combat un des soldats qui se trouvent être les servants de l'affut. Le soldat mort peut bien-sûr être remplacé au tour suivant par un autre soldat.
+
+2 – Les motos :
+
+
+
+3 – Les marcheurs :
+
+
+
+4 – Les transports légers :
+
+
+
+5 – Les transports moyens :
+
+
+
+6 – Les transports lourds :
+
+
+
+7 – Les tanks légers :
+
+
+
+8 – Les tanks lourds :
+
+
+DEGATS PROGRESSIFS
+
+Equipage
+X : Le blindé doit choisir entre bouger ou tirer,il ne peut jamais effectuer les deux.
+
+Z : Le blindé est vidé de ses occupants (sauf ceux transportés dans le cargo qui peuvent y demeurrer s'il le souhaitent), il est inutilisable pour le reste de la bataille, on peut continuer a tirer dessus, mais il ne constitue plus une menace.
+
+Arme
+X : L'arme perd 50% de son angle de tir
+
+Z : L'arme est détruite. Sans réparation possible.
+
+Propulsion
+X : Le blindé perd 50% de son mouvement et des mod de toucher qui y sont associés
+Y : Le blindé est immobilisé.
+
+Z : Le blindé est immobilisé définitivement. Sans réparation possible.
+
+Moteur
+X : Le blindé perd 50% de son initiative, et 50% de son mouvement et des mod de toucher qui y sont associés
+Y : Le blindé perd 100% de son initiative, et 100% de son mouvement et des mod de toucher qui y sont associés
+
+Z : Le blindé est immobilisé et perd toute son initiative définitivement. Sans réparation possible.
+
+Reservoir
+X : Le blindé perd un point de propulsion, de moteur chaque tour jusqu'à réparation au dela de ce marqueur.
+Y : Placez un marqueur explosion sur le blindé, il effectue un test d'explosion à chaque tour désormais et jusqu'à explosion ou réparation au dela de ce marqueur.
+
+Z : Le blindé explose. Il est entièrement détruit.
+
+Cargo
+Chaque point de cargo représente un des soldats que le blindé transporte, retirez les pertes subies lors du déchargement en définissant au hasard quel soldat a été touché si des personnages sont présents.

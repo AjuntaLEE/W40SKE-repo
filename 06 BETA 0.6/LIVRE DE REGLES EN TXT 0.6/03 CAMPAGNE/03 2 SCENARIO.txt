@@ -1,0 +1,44 @@
+Bataille 2 : SCENARIO
+
+Préparation :
+
+1.Recruter (Administratum) 
+
+2.Créer 3 détachements enb reportant sur F2Bataille
+
+3..Placer le décors
+
+4.Placer les pions butins
+
+5.Définir l'objectif principal
+
+6.Définir les objectifs secondaires
+
+7,Définir les zones de déploiement/retraite avec systeme scenario
+
+8,Déployer les troupes avec systeme scenario
+
+9,Définir les personnages objectifs
+
+10.Effectuer le tour préliminaire
+
+11.Début bataille
+
+
+Conclusion :
+
+1,Comptabiliser les points objectifs
+
+2,Comptabiliser les pertes et survivants et captures
+
+3,Reporter les survivants de F2Bataille vers Administratum
+
+4,Noter valeur stratégique terminale puis enregistrer sous, puis remplacer VS précédante par VS terminale, effacer VS terminale.
+
+5,Définir les bonus secondaires, les reporter sur administratum.
+
+6,Proposer de tirer une carte evenement au vainqueur de l'escarmouche.
+
+7.Appliquer l'evenement s'il y a lieu.
+
+8,Passer à la bataille suivante
