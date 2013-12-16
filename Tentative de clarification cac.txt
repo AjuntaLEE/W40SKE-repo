@@ -1,0 +1,34 @@
+Il est impossible de charger un adversaire déjà engagé.(on peut donc toujours charger 1 soldat bloqué puisque bloqué = pas engagé. On autorise en quelque sorte les mouvements de finishs, mais un soldat qui a bravement combattu dans un round de corps à corps à un instant donné ne doit pas pouvoir etre recyclé à volonté pour de nouveaux rounds ? cela devrait aussi favoriser un comportement plus « safe » sur les charges car mieux vaudra gagner une bonne fois pour toute que de multiplier les victoires sur le fil. (Et on résout par le même coup le problème de multicontact...)
+
+Il est impossible d'utiliser un mouvement autre que « charge » pour effectuer un mouvement qui amènerais deux soldats valides de camps adverses à passer à moins d'1ps socle à socle au cours ou à la fin de ce mouvement. (afin d'éviter les contournements abusifs et les traversés de cac. Tant que la ligne de front est cohérente elle est imperméable à l'ennemi...)
+
+Réorganisation :
+Pas de réorganisation ? (il pourra de toute façon y avoir un replacement durant la phase de mouvmeent suivante)
+
+Déblocage automatique d'un soldat pris en cac :
+me parait necessaire dans la mesure où on comprendrait mal que ayant livré son combat et le remportant 1 soldat qui était bloqué soit de nouveau bloqué en face de son adversaire terrasssé. 1 soldat bloqué attaqué combat avec l'énergie du déséspoir, s'il gagne il reprend confiance en lui... moi ça me parait plus logique que "j'ai gagné..! puis... maman j'ai peur ! ". Ca donne à réfléchir aussi avant d'engager un soldat bloqué puisqu'on part d'un inutile et que si on se plante ça peut faire 1 soutien supplémentaire inattendu au camp adverse (mieux vaut donc coucher les valides que de finir des bloqués qui peuvent se relever -> VICTOIRE MORAL>BOUCHERIE )
+
+Intervention :
+1 Soldat au tapis chargé peut demander l'intervention d'un fantassin allié valide non engagé (et 1 seul) situé à moins de 3ps pour lui éviter le finish. Le fantassin qui intervient doit réussir un test de commandement. Réussite il s'interpose et combat à la place du tapis. Echec il laisse son camarade à son triste sort (tapis = HC). FIn de l'histoire. Les implacables ne sont pas obligés de s'interposés (car implacable = ne souhaite pas se foutre à terre de lui même, mais n'est pas pour autant plus courageux que n'importe qui). De toute manière avec un Cd à 3+ il devrait y avoir pas mal de volontaires chez les SM de toute façon...
+
+Statu quo :
+La résolution des combats des statu quo (soldats engagés sans avoir chargé) du tour précédant intervient AVANT les mouvements de charge. Un soldat libéré de son engagement lors de ces combats peut effectuer un mouvement de charge et combattre à nouveau dès ce tour.
+
+Plages de résultats pour le combat :
+
+Différence de 0,1,2,3 = 1 touche de chaque côté et pas d'esquive possible.
+Différence de 4,5,6 = 1 touche pour le côté perdant, esquive possible
+Différence de 7,8 = 2 touches pour le côté perdant, " 		"
+Différence de 9+ = 3 touches pour le côté perdant, "		"
+
+Charges :
+Dans la limite de 4ps ou 8ps avec saut. Ne peuvent pas amener à une position plus éloignée d'aucun ennemi valide situé dans une limite de 16ps sauf si effectué en direction strict d'un ennemi, au depend relatif d'un ou des autres autres. Seules les charges permettent d'engager de nouveaux combats avec des ennemis, valides ou non, et à la condition qu'ils ne soient pas déjà engagés. (Et seules les charges permettent de passer à moins de 1 ps d'un ennemi valide; il est par contre tout a fait possible de passer à coté d'un ennemi au tapis ou bloqué sans le combattre, que ce soit en utilisant un mouvement de charge ou un mouvement normal). (A noter qu'une charge ne donne pas de "bonus" de cac, ce sont les ordres autres qui offrent par contre des malus)
+
+Esquives :
+Un soldat qui a perdu son combat (je propose de l'appeler soldat "oppressé") peut tenter un duel d'initiative avec son adversaire. (esquive)
+Réussite (résultat strictement supérieur) : il est bloqué mais prend la place d'un de ses soutiens actuels, tandis que le soutien se trouve engagé à sa place avec son vis-à-vis.
+SAUF s'il n'y a pas de soutiens, auquel cas il effectue un mouvement de 4ps en direction stricte du pion retraite.
+Echec (résultats inférieurs ou égal) : il reste sur place et effectue autant de jets de blessures qu'il aurait du recevoir de touches. (gros aïe, mais ça fait passer l'envie de faire de l'esquive à tout va... )
+Règle spéciale : les soldats implacables ne PEUVENT pas tenter d'esquives (pas un problème de courage mais d'encombrement, je voudrais vous y voir avec une armure énergétique et un bolter lourd... non mais..)
+Règle spéciale : les soldats qui inspirent la peur forcent leurs ennemis à TOUJOURS effectuer une esquive (ça peut faire mal du coup) s'ils remportent le combat (peut etre soumis à un jet de Cd)(sauf les psykers).
+Rèègle spéciale : les soldats gladiateurs empechent leurs ennemis d'effectuer des retraites, on encaisse TOUJOURS contre un gladiateur et pas de mouvment de recul possible. (sauf les psykers).
